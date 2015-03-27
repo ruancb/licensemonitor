@@ -1,0 +1,640 @@
+Petrel_12225777_MAAAIAAABEQQA: (Total: 12, Used: 9)
+  CF57, 11/11
+  CWF3, 11/7
+  LRR8, 11/11
+  NT6Q, 11/5
+  U4GU, 11/8
+  U4HI, 11/11
+  U4SI, 11/11
+  ds27, 11/11
+  m32d, 11/11
+Petrel_22225777_MAAAIAAADEQQA: (Total: 14, Used: 11)
+  CSHC, 11/11
+  CTQ8, 11/11
+  JOX7, 11/11
+  LDP8, 11/11
+  NT6Q, 11/8
+  SS29, 11/1
+  U3JP, 11/7
+  U4HO, 11/11
+  UPCC, 11/11
+  u4gi, 11/11
+  u4x4, 11/11
+Petrel_32225777_MAAAIAAADkQQA: (Total: 11, Used: 11)
+  CQE9, 11/11
+  CQF4, 11/11
+  IN83, 11/11
+  U3HP, 11/7
+  U3MW, 11/11
+  U4GX, 11/11
+  U4QK, 11/11
+  U4RO, 11/11
+  gnal, 11/11
+  im89, 11/7
+  u3kn, 11/11
+Petrel_42225777_MAAAAAAADgQQA: (Total: 7, Used: 5)
+  GN28, 11/11
+  UPAD, 11/8
+  UPAX, 11/8
+  clxy, 11/11
+  su0e, 11/11
+Petrel_52225777_MAAAIAAABHQQA: (Total: 5, Used: 0)
+Petrel_62225777_MAAAAAEADgQQA: (Total: 2, Used: 1)
+  dad3, 11/8
+Petrel_72225777_MAAAAABAAASUA: (Total: 3, Used: 1)
+  N7HH, 11/11
+Petrel_82225777_MAAAAAFAACSUA: (Total: 3, Used: 0)
+Petrel_92225777_MAAAAAFfACSUA: (Total: 2, Used: 0)
+Petrel_102225777_MAAAAAAADiYQA: (Total: 3, Used: 2)
+  CQF4, 11/11
+  cl25, 11/4
+Petrel_112225777_MAAAAAAADg+QA: (Total: 3, Used: 2)
+  u3mr, 11/11
+  wua3, 11/5
+Petrel_122225777_MAAAIAlBFMRQA: (Total: 3, Used: 3)
+  CYD3, 11/11
+  N7J1, 11/11
+  wmd0, 11/11
+Petrel_132225777_MAAAKAAfDm+UA: (Total: 3, Used: 3)
+  CXZ6, 11/1
+  U3SF, 11/11
+  lpfh, 11/11
+Petrel_142225777_MAAAKACAHmSQA: (Total: 3, Used: 3)
+  DEE1, 11/11
+  IN41, 11/11
+  UPC3, 11/11
+Petrel_152225777_MAAAKACBHs+QA: (Total: 3, Used: 3)
+  CL58, 11/4
+  UPCZ, 11/11
+  upat, 11/8
+Petrel_162225777_MAAAAAEfACQEA: (Total: 2, Used: 0)
+Petrel_172225777_MAAAAAAADgYQA: (Total: 2, Used: 1)
+  u3kx, 11/11
+Petrel_182225777_MAAACBBfCASUA: (Total: 2, Used: 1)
+  BENB, 11/11
+Petrel_192225777_MAAAKAAADkSQA: (Total: 2, Used: 2)
+  upck, 11/11
+  ut7m, 11/11
+Petrel_202225777_MAAAAAEALgQQA: (Total: 3, Used: 1)
+  UT7C, 11/11
+Petrel_212225777_MAAAAAAfAAQEA: (Total: 1, Used: 1)
+  BEDZ, 11/7
+parallel: (Total: 250, Used: 16)
+  cj93, 11/7
+frontsim: (Total: 2, Used: 0)
+lgr: (Total: 10, Used: 0)
+gf_floviz: (Total: 16, Used: 0)
+gf_flogrid: (Total: 7, Used: 0)
+gaslift: (Total: 21, Used: 1)
+  RM23, 11/11
+flux: (Total: 3, Used: 0)
+simopt: (Total: 2, Used: 0)
+eclipse: (Total: 24, Used: 6)
+  RM23, 11/11
+  cj93, 11/7
+  cxzf, 11/11
+  cxzf, 11/11
+  cxzf, 11/11
+  cxzf, 11/11
+cmt_template: (Total: 15, Used: 0)
+office: (Total: 15, Used: 1)
+  CTZ5, 11/11
+networks: (Total: 6, Used: 0)
+multisegwells: (Total: 2, Used: 0)
+gioption: (Total: 2, Used: 0)
+fs_streamtrace: (Total: 2, Used: 0)
+compositional: (Total: 2, Used: 0)
+multiple_realisation: (Total: 16, Used: 0)
+polymers: (Total: 1, Used: 0)
+pvt: (Total: 1, Used: 0)
+vfp: (Total: 3, Used: 0)
+OCEAN_TIB_OPENSPIRITADAPTER: (Total: 53, Used: 4)
+  CTJT, 11/4
+  IM01, 11/8
+  NT6Q, 11/8
+  NT6Q, 11/5
+OCEAN_SLB_WG_STOINV: (Total: 1, Used: 0)
+Petrel_12225794_MAAAKAhBBjQQA: (Total: 2, Used: 0)
+Petrel_22225794_MAAAKAAAD0SQA: (Total: 2, Used: 2)
+  U4GY, 11/11
+  u3ke, 11/11
+Petrel_32225794_MAAAKAAfDmSUA: (Total: 2, Used: 2)
+  WUG9, 11/11
+  u4gy, 11/11
+Petrel_42225794_MAAAIAEAHuQQA: (Total: 2, Used: 1)
+  ut7y, 11/5
+Petrel_52225794_MAAAKAhBHMQQA: (Total: 2, Used: 0)
+Petrel_62225794_MAAAIACBHsTQA: (Total: 2, Used: 2)
+  U3H1, 11/11
+  i634, 11/11
+Petrel_72225794_MAAAKACBHkTQA: (Total: 2, Used: 2)
+  BB7W, 11/11
+  u4xx, 11/11
+Petrel_82225794_MAAAIACBHuRQA: (Total: 2, Used: 2)
+  NTQX, 11/11
+  cqw0, 11/11
+Petrel_92225794_MAAAIAGBDu+QA: (Total: 2, Used: 1)
+  u3kp, 11/11
+Petrel_102225794_MAAAIAGBPuQQA: (Total: 2, Used: 0)
+Petrel_112225794_MAAAIAGBHsZQA: (Total: 1, Used: 1)
+  U3G8, 11/11
+Petrel_122225794_MAAAKACBH/+QA: (Total: 2, Used: 2)
+  U3G9, 11/4
+  ntmw, 11/8
+Petrel_132225794_MAAAIAlBH8ZQA: (Total: 2, Used: 2)
+  U4RJ, 11/6
+  kknn, 11/11
+Petrel_142225794_MAAAAAAABAQQA: (Total: 1, Used: 0)
+Petrel_152225794_MAAAAABAAASEA: (Total: 1, Used: 0)
+Petrel_162225794_MAAAAAAADAQQA: (Total: 1, Used: 0)
+Petrel_172225794_MAAAAAAAJAQQA: (Total: 1, Used: 0)
+Petrel_182225794_MAAAAAAfACSEA: (Total: 1, Used: 0)
+Petrel_192225794_MAAAAAFAAASEA: (Total: 1, Used: 0)
+Petrel_202225794_MAAAAAAACgQQA: (Total: 1, Used: 0)
+Petrel_212225794_MAAAAAEfACSEA: (Total: 1, Used: 0)
+Petrel_222225794_MAAAACAfACSEA: (Total: 1, Used: 0)
+Petrel_232225794_MAAAAAFfACQEA: (Total: 1, Used: 0)
+Petrel_242225794_MAAAADBAAASUA: (Total: 1, Used: 0)
+Petrel_252225794_MAAAAAFfCCQEA: (Total: 1, Used: 1)
+  RM23, 11/11
+Petrel_262225794_MAAAAAFACCSUA: (Total: 2, Used: 0)
+Petrel_272225794_MAAAAAAADgSQA: (Total: 1, Used: 0)
+Petrel_282225794_MAAAIAhABEQQA: (Total: 1, Used: 1)
+  CQB4, 11/7
+Petrel_292225794_MAAAABFfBASUA: (Total: 1, Used: 0)
+Petrel_302225794_MAAAAAFfCCSUA: (Total: 1, Used: 0)
+Petrel_312225794_MAAAAAAfDgSUA: (Total: 1, Used: 0)
+Petrel_322225794_MAAAAAAADoSQA: (Total: 1, Used: 0)
+Petrel_332225794_MAAAAAEADgYQA: (Total: 1, Used: 0)
+Petrel_342225794_MAAAAAEALgQQA: (Total: 1, Used: 0)
+Petrel_352225794_MAAAAAFfDgQUA: (Total: 1, Used: 0)
+Petrel_362225794_MAAAIACBDMQQA: (Total: 1, Used: 1)
+  DEE7, 11/11
+Petrel_372225794_MAAAIAEADjSQA: (Total: 1, Used: 0)
+Petrel_382225794_MAAAIACBFESQA: (Total: 1, Used: 0)
+Petrel_392225794_MAAAIAAADkYQA: (Total: 1, Used: 1)
+  dn64, 11/11
+Petrel_402225794_MAAAIACADkQQA: (Total: 1, Used: 0)
+Petrel_412225794_MAAAAAEALgYQA: (Total: 1, Used: 1)
+  GOE2, 11/8
+Petrel_422225794_MAAAIAGBBERQA: (Total: 1, Used: 1)
+  ntmw, 11/11
+Petrel_432225794_MAAAAAFfDgSUA: (Total: 1, Used: 0)
+Petrel_442225794_MAAAKAAAHkQQA: (Total: 1, Used: 1)
+  rhpn, 11/9
+Petrel_452225794_MAAAKAAADmQQA: (Total: 1, Used: 0)
+Petrel_462225794_MAAAIAAADk+QA: (Total: 2, Used: 1)
+  GOF5, 11/1
+Petrel_472225794_MAAAIAEADkYQA: (Total: 1, Used: 1)
+  upav, 11/11
+Petrel_482225794_MAAAKACADkQQA: (Total: 1, Used: 1)
+  im95, 11/11
+Petrel_492225794_MAAAIAhBHsYUA: (Total: 1, Used: 1)
+  ut8y, 11/11
+Petrel_502225794_MAAAIAABFkSQA: (Total: 1, Used: 1)
+  I633, 11/11
+Petrel_512225794_MAAAIAAAHsQQA: (Total: 1, Used: 1)
+  cy1m, 11/7
+Petrel_522225794_MAAAIAAAHmQQA: (Total: 1, Used: 1)
+  BQW2, 11/11
+Petrel_532225794_MAAAIAABD0QQA: (Total: 1, Used: 1)
+  u3kj, 11/1
+Petrel_542225794_MAAAIAhBJFQQA: (Total: 1, Used: 0)
+Petrel_552225794_MAAAAAFfLiQUA: (Total: 1, Used: 1)
+  CJ93, 11/6
+Petrel_562225794_MAAAKAABHkQQA: (Total: 1, Used: 0)
+Petrel_572225794_MAAAIAAALk+QA: (Total: 1, Used: 0)
+Petrel_582225794_MAAAIAAAHsYQA: (Total: 1, Used: 1)
+  IM01, 11/8
+Petrel_592225794_MAAAIAEAHkRQA: (Total: 1, Used: 1)
+  U4R6, 11/11
+Petrel_602225794_MAAAIAhBFMRQA: (Total: 1, Used: 0)
+Petrel_612225794_MAAAABFfDg+UA: (Total: 1, Used: 1)
+  cxza, 11/7
+Petrel_622225794_MAAAIAhBHNQUA: (Total: 1, Used: 1)
+  U4XY, 11/11
+Petrel_632225794_MAAAIACBHsQQA: (Total: 1, Used: 1)
+  cy1m, 11/7
+Petrel_642225794_MAAAKAABHmQQA: (Total: 1, Used: 0)
+Petrel_652225794_MAAAKAAAPmQQA: (Total: 1, Used: 0)
+Petrel_662225794_MAAAIACBNmQQA: (Total: 1, Used: 1)
+  S1T8, 11/11
+Petrel_672225794_MAAAOAAAL0QQA: (Total: 1, Used: 1)
+  bemu, 11/6
+Petrel_682225794_MAAAIBAADuSQA: (Total: 1, Used: 1)
+  GOB2, 11/8
+Petrel_692225794_MAAAIAfBHkZQA: (Total: 1, Used: 1)
+  U4RJ, 11/6
+Petrel_702225794_MAAAKAhADkYQA: (Total: 1, Used: 0)
+Petrel_712225794_MAAAIAhBDkRQA: (Total: 1, Used: 1)
+  U4XV, 11/11
+Petrel_722225794_MAAAIAEAHuYQA: (Total: 1, Used: 1)
+  CLV6, 11/11
+Petrel_732225794_MAAAIAGBPsQQA: (Total: 1, Used: 1)
+  u3gr, 11/11
+Petrel_742225794_MAAAIACBHkZQA: (Total: 1, Used: 1)
+  CTJT, 11/4
+Petrel_752225794_MAAAIAhBHsQQA: (Total: 1, Used: 1)
+  u3ot, 11/11
+Petrel_762225794_MAAAIAhBOMZQA: (Total: 1, Used: 1)
+  u3gc, 11/11
+Petrel_772225794_MAAAIAGBPsZQA: (Total: 1, Used: 1)
+  U3MT, 11/7
+Petrel_782225794_MAAAIACBHs+QA: (Total: 1, Used: 1)
+  cy1m, 11/1
+Petrel_792225794_MAAAIAGBDm+QA: (Total: 1, Used: 1)
+  U3HQ, 11/11
+Petrel_802225794_MAAAKACBHsRQA: (Total: 1, Used: 1)
+  UT3Z, 11/11
+Petrel_812225794_MAAAIAhBDsZQA: (Total: 1, Used: 0)
+Petrel_822225794_MAAAKACBHsTQA: (Total: 1, Used: 1)
+  GM79, 11/11
+Petrel_832225794_MAAAIBhBHuQQA: (Total: 1, Used: 1)
+  u3vz, 11/11
+Petrel_842225794_MAAAKACBH8+QA: (Total: 1, Used: 1)
+  CF68, 11/11
+Petrel_852225794_MAAAIAGBPuSQA: (Total: 1, Used: 1)
+  U4GE, 11/11
+Petrel_862225794_MAAAIACBPsaQA: (Total: 1, Used: 1)
+  jox8, 11/2
+Petrel_872225794_MAAAKBCBHsZQA: (Total: 1, Used: 1)
+  GOH3, 11/11
+Petrel_882225794_MAAAIAlBHsZQA: (Total: 1, Used: 1)
+  S0D4, 11/4
+Petrel_892225794_MAAAIAGBPsZQA: (Total: 1, Used: 1)
+  I314, 11/1
+Petrel_902225794_MAAAIAGgPuSUA: (Total: 1, Used: 1)
+  cja0, 11/11
+Petrel_912225794_MAAAKACBH/ZQA: (Total: 1, Used: 1)
+  U3GG, 11/8
+Petrel_922225794_MAAAKAlBPmYQA: (Total: 1, Used: 1)
+  U4QL, 11/11
+Petrel_932225794_MAAAOACBP8ZQA: (Total: 1, Used: 1)
+  CQF6, 11/4
+Petrel_942225794_MAAAIAGBPuaQA: (Total: 1, Used: 1)
+  CQE5, 11/11
+Petrel_952225794_MAAAKAhBPuZQA: (Total: 1, Used: 1)
+  CTQW, 11/11
+Petrel_962225794_MAAAIAGBP/aQA: (Total: 1, Used: 1)
+  IN37, 11/11
+Petrel_972225794_MAAAKBhgPuaUA: (Total: 1, Used: 1)
+  cqb3, 11/11
+Petrel_982225794_MAAAAAAAAAAIA: (Total: 4, Used: 0)
+Petrel_992225794_MAAAAAAAAAfAA: (Total: 3, Used: 0)
+OFM32: (Total: 106, Used: 39)
+  AB3C, 11/10
+  BEDZ, 11/5
+  BEK0, 11/1
+  BESQ, 11/8
+  BFX4, 11/11
+  CTUP, 11/11
+  CXNY, 11/4
+  CXVN, 11/11
+  HNZZ, 11/11
+  M3ZS, 11/4
+  MACA, 11/11
+  RHIJ, 11/11
+  SA4P, 11/11
+  UPCC, 11/8
+  bedq, 11/11
+  bek5, 11/11
+  bes0, 11/10
+  bev1, 11/11
+  bevb, 11/11
+  bfu1, 11/8
+  bgw0, 11/8
+  cj38, 11/11
+  cj45, 11/11
+  cjz0, 11/4
+  ctpk, 11/11
+  cxvf, 11/11
+  cxvv, 11/5
+  dn64, 11/11
+  eip3, 11/11
+  j1qk, 11/11
+  kays, 11/8
+  ptn3, 11/11
+  ra23, 11/11
+  ra47, 11/11
+  rs05, 11/11
+  rs19, 11/11
+  rs27, 11/11
+  rs62, 11/7
+  wua3, 11/11
+gf_basemap: (Total: 64, Used: 1)
+  fraj, 11/11
+gf_runtime: (Total: 64, Used: 9)
+  cshc, 11/11
+  cshe, 11/1
+  ctqw, 11/11
+  d026, 11/1
+  fraj, 11/11
+  n3a0, 11/11
+  n7l6, 11/8
+  nt6q, 11/6
+  sle1, 11/11
+gf_geoshare: (Total: 64, Used: 0)
+gf_hardcopy: (Total: 64, Used: 0)
+gf_reportgenerator: (Total: 64, Used: 0)
+gf_data_manager: (Total: 50, Used: 3)
+  d026, 11/1
+  n3a0, 11/11
+  n7l6, 11/8
+gf_dlis_util: (Total: 50, Used: 0)
+gf_dlisu: (Total: 50, Used: 0)
+gf_geoviz_explore: (Total: 49, Used: 0)
+gf_iesx_seis3dv: (Total: 37, Used: 5)
+  cshc, 11/11
+  cshe, 11/8
+  ctqw, 11/11
+  fraj, 11/11
+  sle1, 11/11
+gf_iesx_seis2d: (Total: 35, Used: 1)
+  fraj, 11/11
+gf_dip_image: (Total: 4, Used: 0)
+gf_dip_image_HLS: (Total: 4, Used: 0)
+gf_dip_image_AWS: (Total: 4, Used: 0)
+gf_bornor: (Total: 4, Used: 0)
+gf_BorView: (Total: 9, Used: 0)
+gf_iesx_autopix: (Total: 8, Used: 0)
+gf_data_functioning: (Total: 27, Used: 0)
+gf_welledit: (Total: 27, Used: 0)
+gf_synthetics: (Total: 16, Used: 0)
+gf_geoviz: (Total: 14, Used: 2)
+  cshe, 11/8
+  sle1, 11/11
+gf_iesx_csa: (Total: 11, Used: 0)
+gf_iesx_seistie: (Total: 12, Used: 0)
+gf_iesx_seisan: (Total: 16, Used: 0)
+gf_basemap_plus: (Total: 39, Used: 0)
+gf_iesx_surfaceslice: (Total: 1, Used: 0)
+gf_charisma_attributemap: (Total: 4, Used: 0)
+gf_charisma_mapping: (Total: 2, Used: 0)
+gf_charisma_processingtoolbox: (Total: 3, Used: 0)
+gf_xsection: (Total: 14, Used: 0)
+gf_panorama: (Total: 17, Used: 0)
+gf_wellcomposite_plus: (Total: 17, Used: 0)
+gf_ressum: (Total: 17, Used: 0)
+gf_charisma_seismicviewer: (Total: 5, Used: 0)
+gf_charisma_main3d: (Total: 5, Used: 0)
+gf_charisma_main2d: (Total: 5, Used: 0)
+gf_charisma_mistie: (Total: 2, Used: 0)
+gf_indepth: (Total: 7, Used: 0)
+gf_log_property: (Total: 9, Used: 1)
+  cshe, 11/1
+gf_cps3_mapping: (Total: 4, Used: 0)
+gf_modeling_office: (Total: 5, Used: 0)
+gf_framework_3d: (Total: 5, Used: 0)
+gf_variance_cube: (Total: 4, Used: 0)
+gf_seisclass: (Total: 4, Used: 0)
+gf_wellpix: (Total: 14, Used: 0)
+gf_iesx_asap: (Total: 6, Used: 0)
+gf_charisma_asap: (Total: 6, Used: 0)
+uncertainty: (Total: 1, Used: 0)
+gf_spectral_decomposition: (Total: 1, Used: 0)
+Full_Functionality: (Total: 1, Used: 0)
+WellCount_100: (Total: 1, Used: 0)
+WellCount_500: (Total: 1, Used: 0)
+WellCount_40: (Total: 1, Used: 0)
+Performance_Monitoring: (Total: 1, Used: 0)
+Intra_Day_Data: (Total: 1, Used: 0)
+WellCount_1000: (Total: 1, Used: 0)
+Data_Reconciliation: (Total: 1, Used: 0)
+WellCount_10: (Total: 1, Used: 0)
+Workflow_Automation: (Total: 1, Used: 0)
+WellCount_2000: (Total: 1, Used: 0)
+WellCount_4000: (Total: 1, Used: 0)
+WellCount_8000: (Total: 1, Used: 0)
+WellCount_Unlimited: (Total: 1, Used: 0)
+WellCount_250: (Total: 1, Used: 0)
+gf_strucview: (Total: 3, Used: 0)
+Peep_Security: (Total: 9, Used: 0)
+ResultsBroker: (Total: 17, Used: 0)
+World_PEEP: (Total: 9, Used: 0)
+ResultsBroker_Security: (Total: 9, Used: 0)
+PeepOCXExtensions: (Total: 9, Used: 0)
+Forecast: (Total: 9, Used: 0)
+CapitalPlanning: (Total: 8, Used: 0)
+EfficientFrontier: (Total: 8, Used: 0)
+PIPESIM: (Total: 36, Used: 2)
+  N7HH, 11/11
+  cn0b, 11/11
+PSIMENGINE: (Total: 36, Used: 0)
+NETENGINE: (Total: 35, Used: 0)
+PIPESIM-NET: (Total: 35, Used: 4)
+  BEWV, 11/11
+  BFN8, 11/6
+  CXNF, 11/11
+  N7HH, 11/11
+PVTToolbox_Base: (Total: 6, Used: 0)
+psim_compositional: (Total: 6, Used: 0)
+OLGA-S: (Total: 6, Used: 0)
+MultiFlash_GUI: (Total: 17, Used: 0)
+MultiFlash_Basic: (Total: 17, Used: 1)
+  cn0b, 11/11
+MultiFlash_GUICALC: (Total: 17, Used: 0)
+MultiFlash_Hydrate: (Total: 16, Used: 0)
+DesignPro_Russian: (Total: 13, Used: 0)
+DesignPro: (Total: 21, Used: 0)
+Avocet_Capture: (Total: 3, Used: 0)
+DECIDE.Full_Functionality: (Total: 21, Used: 0)
+DECIDE.Automation_IntraDay: (Total: 15, Used: 0)
+DECIDE.Automation_Data: (Total: 38, Used: 0)
+DECIDE.Automation_Rules: (Total: 26, Used: 1)
+  SYSTEM, 11/3
+DECIDE.Automation_Models: (Total: 15, Used: 5)
+  SABCDECI, 11/3
+  SYSTEM, 11/11
+  SYSTEM, 11/3
+  SYSTEM, 11/3
+  SYSTEM, 11/3
+DECIDE.Facility_Count_40: (Total: 4, Used: 0)
+OR_UpdateWhileDrilling: (Total: 2, Used: 0)
+OR_OffsetDataIntegration: (Total: 2, Used: 0)
+Osprey_Risk_Standard: (Total: 2, Used: 0)
+Osprey_Risk_Advanced: (Total: 2, Used: 0)
+OLGAS-3PHASE: (Total: 1, Used: 0)
+r2sl_tanks: (Total: 1, Used: 0)
+AvocetIAM_Base: (Total: 9, Used: 0)
+AvocetIAM_Optimizers: (Total: 2, Used: 0)
+AvocetIAM_Process: (Total: 9, Used: 0)
+MerakEconomics: (Total: 1, Used: 0)
+r2sl: (Total: 1, Used: 0)
+AvocetIAM_Production: (Total: 2, Used: 0)
+r2sl_gap: (Total: 1, Used: 0)
+r2sl_lookup: (Total: 1, Used: 0)
+AvocetIAM_Reservoir: (Total: 9, Used: 0)
+gf_lo_lql: (Total: 7, Used: 0)
+gf_lithotoolkit: (Total: 12, Used: 0)
+gf_lo_neuralnet: (Total: 5, Used: 0)
+gf_geoplot: (Total: 6, Used: 0)
+lq_viz_server: (Total: 45, Used: 0)
+lq_lrs: (Total: 40, Used: 0)
+lq_accounting: (Total: 70, Used: 0)
+lq_win_rdp: (Total: 10, Used: 0)
+DECIDE.Facility_Count_100: (Total: 4, Used: 0)
+DECIDE.Facility_Count_250: (Total: 5, Used: 0)
+SeismicManager_TS_IESX: (Total: 1, Used: 0)
+SDS_SDE_Access: (Total: 2, Used: 0)
+SDS_DBAdmin: (Total: 1, Used: 0)
+SeismicManager_SEGY_Load: (Total: 1, Used: 0)
+SeismicManager_SEGY_Edit: (Total: 1, Used: 0)
+SDS_Central: (Total: 4, Used: 0)
+SDS_UKOOA_Loader: (Total: 1, Used: 0)
+SeismicManager_TS_Charisma: (Total: 1, Used: 0)
+SeismicManager_Export_SEGYProj: (Total: 1, Used: 0)
+eims_ds_seismic_manager: (Total: 1, Used: 0)
+SeismicManager_Export_SEGYSEGY: (Total: 1, Used: 0)
+eims_ds_seabed: (Total: 7, Used: 0)
+SeismicManager_Export_ProjSEGY: (Total: 1, Used: 0)
+SeismicManager_Nav_Load: (Total: 1, Used: 0)
+SDS_MergeManager: (Total: 2, Used: 0)
+SDS_Seismic: (Total: 4, Used: 0)
+SeismicManager_TraceView_Proj: (Total: 1, Used: 0)
+SeismicManager_Scan_GeoFrame: (Total: 1, Used: 0)
+SeismicManager_Scan_OpenWorks: (Total: 1, Used: 0)
+SeismicManager_Export_ProjProj: (Total: 1, Used: 0)
+SDS_UKOOA_Exporter: (Total: 1, Used: 0)
+SeismicManager_TS_SeisWorks: (Total: 1, Used: 0)
+SDS_Gen_Ascii_Loader: (Total: 2, Used: 0)
+SeismicManager_TraceView_SEGY: (Total: 3, Used: 0)
+SDS_Gen_Ascii_Exporter: (Total: 1, Used: 0)
+SDS_Reservoir: (Total: 1, Used: 0)
+SDS_Log: (Total: 3, Used: 0)
+SDS_Well: (Total: 3, Used: 0)
+eims_viewer_dtm: (Total: 4, Used: 0)
+eims_ds_index: (Total: 3, Used: 0)
+dtm_transfer_framework: (Total: 60, Used: 0)
+eims_viewer_gis: (Total: 3, Used: 0)
+eims_viewer_form: (Total: 3, Used: 0)
+eims_ds: (Total: 3, Used: 0)
+eims_ds_sde: (Total: 3, Used: 0)
+eims_ds_raster: (Total: 2, Used: 0)
+eims_viewer_client_transfer: (Total: 3, Used: 0)
+eims_viewer: (Total: 3, Used: 1)
+  gqs, 11/8
+eims_ds_jdbc: (Total: 30, Used: 0)
+eims_client: (Total: 5, Used: 0)
+eims_ds_geoframe: (Total: 20, Used: 0)
+eims_ds_seisworks3d: (Total: 20, Used: 0)
+eims_ds_openworks2003: (Total: 20, Used: 0)
+eims_ds_sw2003: (Total: 20, Used: 0)
+eims_viewer_comparison: (Total: 2, Used: 0)
+eims_viewer_comparisonsingle: (Total: 2, Used: 0)
+livequest_web: (Total: 2997, Used: 0)
+Avocet.GasLiftOptimizer: (Total: 11, Used: 0)
+PIPESIM_LINUX: (Total: 11, Used: 0)
+IF_DecisionPoint: (Total: 70, Used: 0)
+DP_Prod_package: (Total: 70, Used: 0)
+DP_DWW_package: (Total: 70, Used: 0)
+gf_elanplus: (Total: 5, Used: 0)
+gf_charisma_correlationmap: (Total: 3, Used: 0)
+gf_petroviewplus: (Total: 6, Used: 0)
+gf_preplus: (Total: 6, Used: 0)
+LDB_original_export: (Total: 3, Used: 0)
+LDB_lis_scan: (Total: 3, Used: 0)
+LogDB: (Total: 3, Used: 0)
+LDB_browsing_editing: (Total: 3, Used: 0)
+LDB_log_display: (Total: 3, Used: 0)
+LDB_view_edit: (Total: 3, Used: 0)
+LDB_report_generator: (Total: 3, Used: 0)
+LDB_query_builder: (Total: 3, Used: 0)
+LDB_edited_export: (Total: 3, Used: 0)
+LDB_las_scan: (Total: 3, Used: 0)
+LDB_dlis_scan: (Total: 3, Used: 0)
+DECIDE.Facility_Count_10: (Total: 1, Used: 0)
+petroflash: (Total: 2180, Used: 0)
+pm_2Component2D: (Total: 5, Used: 0)
+multi1D_2D: (Total: 5, Used: 0)
+pepe2D: (Total: 5, Used: 0)
+petroflow2D: (Total: 5, Used: 0)
+editors: (Total: 2180, Used: 0)
+pirx2D: (Total: 5, Used: 0)
+input2D: (Total: 106, Used: 0)
+petrogen2D: (Total: 5, Used: 0)
+pm_MultiComponent2D: (Total: 5, Used: 0)
+petrobuilder2D: (Total: 106, Used: 0)
+pm_parallel: (Total: 100, Used: 0)
+DECIDE.Data_Mining: (Total: 3, Used: 0)
+pm_ThermalCalibration3D: (Total: 5, Used: 0)
+tlDLIS: (Total: 6, Used: 2)
+  I607, 11/9
+  ctwz, 11/10
+tlBase: (Total: 6, Used: 2)
+  I607, 11/9
+  ctwz, 11/10
+tlTechdataPlus: (Total: 5, Used: 2)
+  I607, 11/9
+  ctwz, 11/10
+tlQuantiMin: (Total: 1, Used: 1)
+  ctwz, 11/10
+tlWBI: (Total: 5, Used: 2)
+  I607, 11/9
+  ctwz, 11/10
+tlNMR: (Total: 3, Used: 1)
+  ctwz, 11/10
+tlSHM: (Total: 1, Used: 1)
+  ctwz, 11/10
+tlQuanti: (Total: 2, Used: 1)
+  ctwz, 11/10
+tlPython: (Total: 5, Used: 1)
+  I607, 11/9
+OFMPetrelPlugin: (Total: 1, Used: 0)
+petrogen1D: (Total: 4, Used: 0)
+petromod1D: (Total: 4, Used: 0)
+petroflow1D: (Total: 4, Used: 0)
+pm_chargecontroller: (Total: 9, Used: 0)
+multi1D: (Total: 9, Used: 0)
+pirx: (Total: 9, Used: 0)
+ovlcalc: (Total: 108, Used: 0)
+pm_LGR3D: (Total: 9, Used: 0)
+pepe3D: (Total: 9, Used: 0)
+seisstrat3D: (Total: 999, Used: 0)
+mapeditor: (Total: 108, Used: 0)
+heat: (Total: 9, Used: 0)
+petrocharge: (Total: 9, Used: 0)
+pm_2Component3D: (Total: 9, Used: 0)
+petroflow3D: (Total: 9, Used: 0)
+pm_MultiComponent3D: (Total: 9, Used: 0)
+input3D: (Total: 108, Used: 0)
+petrogen3D: (Total: 9, Used: 0)
+struct2D: (Total: 1, Used: 0)
+risk1D: (Total: 4, Used: 0)
+risk2D: (Total: 4, Used: 0)
+risk3D: (Total: 4, Used: 0)
+faf3D: (Total: 1, Used: 0)
+faf2D: (Total: 1, Used: 0)
+faf1D: (Total: 1, Used: 0)
+wizard: (Total: 20, Used: 0)
+wizard_SIM: (Total: 20, Used: 0)
+struct3D: (Total: 1, Used: 0)
+biopets: (Total: 1, Used: 0)
+gf_roxan: (Total: 1, Used: 0)
+gf_sonic_bestdt: (Total: 1, Used: 0)
+gf_sonic_dstc: (Total: 1, Used: 0)
+gf_sonic_stc: (Total: 1, Used: 0)
+gf_sonic_stone: (Total: 1, Used: 0)
+gf_holeshape: (Total: 1, Used: 0)
+gf_hrla2d: (Total: 1, Used: 0)
+ISIS3DP: (Total: 90, Used: 2)
+  hrq1, 11/11
+  hrq1, 11/11
+ISIS3DP_ALIGN: (Total: 9, Used: 0)
+ISIS3DP_ATTENUATION: (Total: 9, Used: 0)
+ISIS3DP_DIP: (Total: 9, Used: 0)
+ISIS3DP_LITHOLOGY: (Total: 9, Used: 0)
+ISIS3DP_PPPS: (Total: 9, Used: 0)
+ISIS3DP_SIMULTANEOUS: (Total: 27, Used: 0)
+ISIS3DP_TIMELAPSE: (Total: 9, Used: 0)
+SDS_Drilling: (Total: 2, Used: 0)
+Logs_Original_Exporter: (Total: 1, Used: 0)
+SDS_Database_Access: (Total: 2, Used: 1)
+  cywb.PETROBRAS\MI145918, 11/6
+SDS_Bulk_Access: (Total: 1, Used: 0)
+Logs_DLIS_Loader: (Total: 1, Used: 0)
+eims_viewer_well: (Total: 1, Used: 0)
+Logs_Edited_Exporter: (Total: 1, Used: 0)
+Logs_SEGY_VSP_Loader: (Total: 1, Used: 0)
+eims_ds_logs: (Total: 1, Used: 1)
+  cywb, 11/8
+SDS_LAS_Loader: (Total: 1, Used: 0)

@@ -1,0 +1,4 @@
+#Put below how many hours this script will be running
+5
+#Put below how many minutes will be the interval between each run of script
+30

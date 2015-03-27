@@ -1,0 +1,1544 @@
+lmutil - Copyright (c) 1989-2009 Flexera Software, Inc. All Rights Reserved.
+Flexible License Manager status on Mon 11/11/2013 10:34
+
+[Detecting lmgrd processes...]
+License server status: 30100@licep01.ep.petrobras.com.br,30100@licep02.ep.petrobras.com.br,30100@licep03.ep.petrobras.com.br
+    License file(s) on licep01.ep.petrobras.com.br: /apps_lic_cipd/Flexlm-EP/Schlumberger/arquivoslic//slbsls.dongle01.lic:/apps_lic_cipd/Flexlm-EP/Schlumberger/arquivoslic//slbsls.dongle02.lic:/apps_lic_cipd/Flexlm-EP/Schlumberger/arquivoslic//slbsls.naopetrel.lic:/apps_lic_cipd/Flexlm-EP/Schlumberger/arquivoslic//slbsls.osp.lic:/apps_lic_cipd/Flexlm-EP/Schlumberger/arquivoslic//slbsls.psource.lic:
+
+licep01.ep.petrobras.com.br: license server UP (MASTER) v11.11
+licep02.ep.petrobras.com.br: license server UP v11.11
+licep03.ep.petrobras.com.br: license server UP v11.11
+
+Vendor daemon status (on licep01.ep.petrobras.com.br):
+
+    slbsls: UP v11.8
+Feature usage info:
+
+Users of Petrel_12225777_MAAAIAAABEQQA:  (Total of 12 licenses issued;  Total of 9 licenses in use)
+
+  "Petrel_12225777_MAAAIAAABEQQA" v2013.12, vendor: slbsls
+  floating license
+
+    CF57 ES00005369 ES00005369 (v2013.05) (licep01.ep.petrobras.com.br/30100 32528), start Mon 11/11 8:18
+    CWF3 ES004327 ES004327 (v2012.09) (licep01.ep.petrobras.com.br/30100 35040), start Thu 11/7 16:22
+    LRR8 ES004177 ES004177 (v2012.09) (licep01.ep.petrobras.com.br/30100 14532), start Mon 11/11 9:21
+    NT6Q ES00006179 ES00006179 (v2013.08) (licep01.ep.petrobras.com.br/30100 18990), start Tue 11/5 9:56
+    U4GU ES00006771 ES00006771 (v2013.07) (licep01.ep.petrobras.com.br/30100 20405), start Fri 11/8 11:27
+    U4HI ES00005183 ES00005183 (v2013.05) (licep01.ep.petrobras.com.br/30100 12462), start Mon 11/11 8:48
+    U4SI ES00006794 ES00006794 (v2013.05) (licep01.ep.petrobras.com.br/30100 22394), start Mon 11/11 9:35
+    ds27 ES00005900 ES00005900 (v2013.05) (licep01.ep.petrobras.com.br/30100 18873), start Mon 11/11 8:37
+    m32d ES001618 ES001618 (v2013.05) (licep01.ep.petrobras.com.br/30100 17349), start Mon 11/11 8:50
+
+Users of Petrel_22225777_MAAAIAAADEQQA:  (Total of 14 licenses issued;  Total of 11 licenses in use)
+
+  "Petrel_22225777_MAAAIAAADEQQA" v2013.12, vendor: slbsls
+  floating license
+
+    CSHC ES002754 ES002754 (v2012.09) (licep01.ep.petrobras.com.br/30100 27046), start Mon 11/11 7:47
+    CTQ8 NO00060352 NO00060352 (v2013.01) (licep01.ep.petrobras.com.br/30100 6929), start Mon 11/11 10:13
+    JOX7 ES004466 ES004466 (v2013.08) (licep01.ep.petrobras.com.br/30100 14327), start Mon 11/11 10:24
+    LDP8 MI00194496 MI00194496 (v2013.05) (licep01.ep.petrobras.com.br/30100 30121), start Mon 11/11 7:27
+    NT6Q ES00006179 ES00006179 (v2013.08) (licep01.ep.petrobras.com.br/30100 26485), start Fri 11/8 9:49
+    SS29 ES00005335 ES00005335 (v2013.01) (licep01.ep.petrobras.com.br/30100 9006), start Fri 11/1 8:46
+    U3JP ES004217 ES004217 (v2012.09) (licep01.ep.petrobras.com.br/30100 26063), start Thu 11/7 10:06
+    U4HO ES002428 ES002428 (v2012.07) (licep01.ep.petrobras.com.br/30100 15061), start Mon 11/11 10:15
+    UPCC ES00006258 ES00006258 (v2011.0) (licep01.ep.petrobras.com.br/30100 6334), start Mon 11/11 9:05
+    u4gi ES002079 ES002079 (v2012.09) (licep01.ep.petrobras.com.br/30100 32714), start Mon 11/11 9:12
+    u4x4 ES003733 ES003733 (v2012.09) (licep01.ep.petrobras.com.br/30100 31738), start Mon 11/11 9:22
+
+Users of Petrel_32225777_MAAAIAAADkQQA:  (Total of 11 licenses issued;  Total of 11 licenses in use)
+
+  "Petrel_32225777_MAAAIAAADkQQA" v2013.12, vendor: slbsls
+  floating license
+
+    CQE9 ES00005899 ES00005899 (v2013.05) (licep01.ep.petrobras.com.br/30100 16642), start Mon 11/11 9:26
+    CQF4 ES004194 ES004194 (v2013.01) (licep01.ep.petrobras.com.br/30100 5935), start Mon 11/11 8:32
+    IN83 ES00007128 ES00007128 (v2011.0) (licep01.ep.petrobras.com.br/30100 15494), start Mon 11/11 9:26
+    U3HP ES00005511 ES00005511 (v2012.11) (licep01.ep.petrobras.com.br/30100 7497), start Thu 11/7 13:45
+    U3MW ES00007144 ES00007144 (v2013.01) (licep01.ep.petrobras.com.br/30100 11007), start Mon 11/11 8:30
+    U4GX ES00005843 ES00005843 (v2013.05) (licep01.ep.petrobras.com.br/30100 2930), start Mon 11/11 8:39
+    U4QK ES00007499 ES00007499 (v2013.05) (licep01.ep.petrobras.com.br/30100 131), start Mon 11/11 7:24
+    U4RO NO00045277 NO00045277 (v2012.11) (licep01.ep.petrobras.com.br/30100 16298), start Mon 11/11 9:09
+    gnal ES00007072 ES00007072 (v2013.03) (licep01.ep.petrobras.com.br/30100 30715), start Mon 11/11 9:27
+    im89 ES00005873 ES00005873 (v2013.05) (licep01.ep.petrobras.com.br/30100 11899), start Thu 11/7 17:32
+    u3kn ES00005336 ES00005336 (v2011.0) (licep01.ep.petrobras.com.br/30100 8416), start Mon 11/11 8:19
+
+Users of Petrel_42225777_MAAAAAAADgQQA:  (Total of 7 licenses issued;  Total of 5 licenses in use)
+
+  "Petrel_42225777_MAAAAAAADgQQA" v2013.12, vendor: slbsls
+  floating license
+
+    GN28 ES00005400 ES00005400 (v2012.09) (licep01.ep.petrobras.com.br/30100 29556), start Mon 11/11 9:50
+    UPAD ES00006647 ES00006647 (v2013.01) (licep01.ep.petrobras.com.br/30100 35906), start Fri 11/8 14:15
+    UPAX ES00005842 ES00005842 (v2012.09) (licep01.ep.petrobras.com.br/30100 722), start Fri 11/8 8:10
+    clxy EV00000597 EV00000597 (v2013.01) (licep01.ep.petrobras.com.br/30100 17626), start Mon 11/11 8:18
+    su0e ES00007079 ES00007079 (v2010.1) (licep01.ep.petrobras.com.br/30100 6662), start Mon 11/11 9:44
+
+Users of Petrel_52225777_MAAAIAAABHQQA:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of Petrel_62225777_MAAAAAEADgQQA:  (Total of 2 licenses issued;  Total of 1 license in use)
+
+  "Petrel_62225777_MAAAAAEADgQQA" v2013.12, vendor: slbsls
+  floating license
+
+    dad3 MV00005759 MV00005759 (v2012.07) (licep01.ep.petrobras.com.br/30100 33358), start Fri 11/8 8:45
+
+Users of Petrel_72225777_MAAAAABAAASUA:  (Total of 3 licenses issued;  Total of 1 license in use)
+
+  "Petrel_72225777_MAAAAABAAASUA" v2013.12, vendor: slbsls
+  floating license
+
+    N7HH ES00005995 ES00005995 (v2013.01) (licep01.ep.petrobras.com.br/30100 30041), start Mon 11/11 8:12
+
+Users of Petrel_82225777_MAAAAAFAACSUA:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of Petrel_92225777_MAAAAAFfACSUA:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of Petrel_102225777_MAAAAAAADiYQA:  (Total of 3 licenses issued;  Total of 2 licenses in use)
+
+  "Petrel_102225777_MAAAAAAADiYQA" v2013.12, vendor: slbsls
+  floating license
+
+    CQF4 ES004194 ES004194 (v2011.0) (licep01.ep.petrobras.com.br/30100 25768), start Mon 11/11 10:20
+    cl25 ES00006106 ES00006106 (v2013.03) (licep01.ep.petrobras.com.br/30100 1103), start Mon 11/4 9:14
+
+Users of Petrel_112225777_MAAAAAAADg+QA:  (Total of 3 licenses issued;  Total of 2 licenses in use)
+
+  "Petrel_112225777_MAAAAAAADg+QA" v2013.12, vendor: slbsls
+  floating license
+
+    u3mr ES003737 ES003737 (v2012.07) (licep01.ep.petrobras.com.br/30100 19050), start Mon 11/11 10:31
+    wua3 ES002685 ES002685 (v2012.07) (licep01.ep.petrobras.com.br/30100 8024), start Tue 11/5 11:28
+
+Users of Petrel_122225777_MAAAIAlBFMRQA:  (Total of 3 licenses issued;  Total of 3 licenses in use)
+
+  "Petrel_122225777_MAAAIAlBFMRQA" v2013.12, vendor: slbsls
+  floating license
+
+    CYD3 ES004220 ES004220 (v2012.09) (licep01.ep.petrobras.com.br/30100 35352), start Mon 11/11 8:31
+    N7J1 ES00006967 ES00006967 (v2013.05) (licep01.ep.petrobras.com.br/30100 29473), start Mon 11/11 8:02
+    wmd0 ES00005898 ES00005898 (v2013.05) (licep01.ep.petrobras.com.br/30100 10716), start Mon 11/11 8:49
+
+Users of Petrel_132225777_MAAAKAAfDm+UA:  (Total of 3 licenses issued;  Total of 3 licenses in use)
+
+  "Petrel_132225777_MAAAKAAfDm+UA" v2013.12, vendor: slbsls
+  floating license
+
+    CXZ6 ES00005885 ES00005885 (v2012.09) (licep01.ep.petrobras.com.br/30100 10903), start Fri 11/1 10:44
+    U3SF ES00005999 ES00005999 (v2013.01) (licep01.ep.petrobras.com.br/30100 32827), start Mon 11/11 9:15
+    lpfh ES004155 ES004155 (v2012.11) (licep01.ep.petrobras.com.br/30100 24689), start Mon 11/11 8:59
+
+Users of Petrel_142225777_MAAAKACAHmSQA:  (Total of 3 licenses issued;  Total of 3 licenses in use)
+
+  "Petrel_142225777_MAAAKACAHmSQA" v2013.12, vendor: slbsls
+  floating license
+
+    DEE1 ES00005852 ES00005852 (v2012.09) (licep01.ep.petrobras.com.br/30100 18170), start Mon 11/11 9:41
+    IN41 ES00007140 ES00007140 (v2012.09) (licep01.ep.petrobras.com.br/30100 6240), start Mon 11/11 9:35
+    UPC3 ES00005537 ES00005537 (v2013.01) (licep01.ep.petrobras.com.br/30100 20646), start Mon 11/11 9:37
+
+Users of Petrel_152225777_MAAAKACBHs+QA:  (Total of 3 licenses issued;  Total of 3 licenses in use)
+
+  "Petrel_152225777_MAAAKACBHs+QA" v2013.12, vendor: slbsls
+  floating license
+
+    CL58 ES004465 ES004465 (v2012.11) (licep01.ep.petrobras.com.br/30100 4930), start Mon 11/4 8:32
+    UPCZ ES00005879 ES00005879 (v2013.05) (licep01.ep.petrobras.com.br/30100 28946), start Mon 11/11 8:43
+    upat ES00005690 ES00005690 (v2011.0) (licep01.ep.petrobras.com.br/30100 21086), start Fri 11/8 20:49
+
+Users of Petrel_162225777_MAAAAAEfACQEA:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of Petrel_172225777_MAAAAAAADgYQA:  (Total of 2 licenses issued;  Total of 1 license in use)
+
+  "Petrel_172225777_MAAAAAAADgYQA" v2013.12, vendor: slbsls
+  floating license
+
+    u3kx ES003308 ES003308 (v2012.09) (licep01.ep.petrobras.com.br/30100 5490), start Mon 11/11 8:28
+
+Users of Petrel_182225777_MAAACBBfCASUA:  (Total of 2 licenses issued;  Total of 1 license in use)
+
+  "Petrel_182225777_MAAACBBfCASUA" v2013.12, vendor: slbsls
+  floating license
+
+    BENB ES00006868 ES00006868 (v2012.07) (licep01.ep.petrobras.com.br/30100 3580), start Mon 11/11 6:45
+
+Users of Petrel_192225777_MAAAKAAADkSQA:  (Total of 2 licenses issued;  Total of 2 licenses in use)
+
+  "Petrel_192225777_MAAAKAAADkSQA" v2013.12, vendor: slbsls
+  floating license
+
+    upck ES002183 ES002183 (v2012.09) (licep01.ep.petrobras.com.br/30100 6590), start Mon 11/11 9:33
+    ut7m ES00005375 ES00005375 (v2012.11) (licep01.ep.petrobras.com.br/30100 33745), start Mon 11/11 10:24
+
+Users of Petrel_202225777_MAAAAAEALgQQA:  (Total of 3 licenses issued;  Total of 1 license in use)
+
+  "Petrel_202225777_MAAAAAEALgQQA" v2013.12, vendor: slbsls
+  floating license
+
+    UT7C NO00060860 NO00060860 (v2013.05) (licep01.ep.petrobras.com.br/30100 9450), start Mon 11/11 10:24
+
+Users of Petrel_212225777_MAAAAAAfAAQEA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_212225777_MAAAAAAfAAQEA" v2013.12, vendor: slbsls
+  floating license
+
+    BEDZ ES00006784 ES00006784 (v2012.09) (licep01.ep.petrobras.com.br/30100 14928), start Thu 11/7 16:27
+
+Users of parallel:  (Total of 250 licenses issued;  Total of 16 licenses in use)
+
+  "parallel" v2013.12, vendor: slbsls
+  floating license
+
+    cj93 sbcclas25.petrobras.biz /dev/tty (v2010.0) (licep01.ep.petrobras.com.br/30100 17522), start Thu 11/7 15:55, 16 licenses
+
+Users of frontsim:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of lgr:  (Total of 10 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_floviz:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_flogrid:  (Total of 7 licenses issued;  Total of 0 licenses in use)
+
+Users of gaslift:  (Total of 21 licenses issued;  Total of 1 license in use)
+
+  "gaslift" v2013.12, vendor: slbsls
+  floating license
+
+    RM23 ES001722 ES001722 (v2011.0) (licep01.ep.petrobras.com.br/30100 30359), start Mon 11/11 10:24
+
+Users of flux:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of simopt:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of eclipse:  (Total of 24 licenses issued;  Total of 6 licenses in use)
+
+  "eclipse" v2013.12, vendor: slbsls
+  floating license
+
+    RM23 ES001722 ES001722 (v2011.0) (licep01.ep.petrobras.com.br/30100 1462), start Mon 11/11 10:27
+    cj93 sbcclas25.petrobras.biz /dev/tty (v2010.0) (licep01.ep.petrobras.com.br/30100 12770), start Thu 11/7 15:55
+    cxzf S6506CW108 NO00052036 (v2009.0) (licep01.ep.petrobras.com.br/30100 21723), start Mon 11/11 10:31
+    cxzf S6506CW106 NO00052036 (v2009.0) (licep01.ep.petrobras.com.br/30100 25629), start Mon 11/11 10:25
+    cxzf S6506CW106 NO00052036 (v2009.0) (licep01.ep.petrobras.com.br/30100 24448), start Mon 11/11 10:33
+    cxzf S6506CW106 NO00052036 (v2009.0) (licep01.ep.petrobras.com.br/30100 26951), start Mon 11/11 10:33
+
+Users of cmt_template:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of office:  (Total of 15 licenses issued;  Total of 1 license in use)
+
+  "office" v2013.12, vendor: slbsls
+  floating license
+
+    CTZ5 ES00007500 ES00007500 (v2011.0) (licep01.ep.petrobras.com.br/30100 22262), start Mon 11/11 8:07
+
+Users of networks:  (Total of 6 licenses issued;  Total of 0 licenses in use)
+
+Users of multisegwells:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of gioption:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of fs_streamtrace:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of compositional:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of multiple_realisation:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of polymers:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of pvt:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of vfp:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of OCEAN_TIB_OPENSPIRITADAPTER:  (Total of 53 licenses issued;  Total of 4 licenses in use)
+
+  "OCEAN_TIB_OPENSPIRITADAPTER" v2014.06, vendor: slbsls
+  floating license
+
+    CTJT ES00006204 ES00006204 (v2012.07) (licep01.ep.petrobras.com.br/30100 19614), start Mon 11/4 18:05
+    IM01 ES00006204 ES00006204 (v2012.07) (licep01.ep.petrobras.com.br/30100 36301), start Fri 11/8 14:15
+    NT6Q ES00006179 ES00006179 (v2012.07) (licep01.ep.petrobras.com.br/30100 14760), start Fri 11/8 9:49
+    NT6Q ES00006179 ES00006179 (v2012.07) (licep01.ep.petrobras.com.br/30100 3371), start Tue 11/5 9:56
+
+Users of OCEAN_SLB_WG_STOINV:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_12225794_MAAAKAhBBjQQA:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of Petrel_22225794_MAAAKAAAD0SQA:  (Total of 2 licenses issued;  Total of 2 licenses in use)
+
+  "Petrel_22225794_MAAAKAAAD0SQA" v2013.12, vendor: slbsls
+  floating license
+
+    U4GY ES00007148 ES00007148 (v2013.01) (licep01.ep.petrobras.com.br/30100 22823), start Mon 11/11 9:44
+    u3ke MI00213980 MI00213980 (v2013.08) (licep01.ep.petrobras.com.br/30100 12899), start Mon 11/11 10:30
+
+Users of Petrel_32225794_MAAAKAAfDmSUA:  (Total of 2 licenses issued;  Total of 2 licenses in use)
+
+  "Petrel_32225794_MAAAKAAfDmSUA" v2013.12, vendor: slbsls
+  floating license
+
+    WUG9 ES002465 ES002465 (v2013.05) (licep01.ep.petrobras.com.br/30100 23187), start Mon 11/11 9:49
+    u4gy MI140342 MI140342 (v2013.08) (licep01.ep.petrobras.com.br/30100 19855), start Mon 11/11 10:33
+
+Users of Petrel_42225794_MAAAIAEAHuQQA:  (Total of 2 licenses issued;  Total of 1 license in use)
+
+  "Petrel_42225794_MAAAIAEAHuQQA" v2013.12, vendor: slbsls
+  floating license
+
+    ut7y ES002489 ES002489 (v2013.05) (licep01.ep.petrobras.com.br/30100 12217), start Tue 11/5 14:39
+
+Users of Petrel_52225794_MAAAKAhBHMQQA:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of Petrel_62225794_MAAAIACBHsTQA:  (Total of 2 licenses issued;  Total of 2 licenses in use)
+
+  "Petrel_62225794_MAAAIACBHsTQA" v2013.12, vendor: slbsls
+  floating license
+
+    U3H1 ES00005490 ES00005490 (v2013.05) (licep01.ep.petrobras.com.br/30100 33208), start Mon 11/11 8:15
+    i634 ES00005005 ES00005005 (v2013.08) (licep01.ep.petrobras.com.br/30100 34919), start Mon 11/11 9:29
+
+Users of Petrel_72225794_MAAAKACBHkTQA:  (Total of 2 licenses issued;  Total of 2 licenses in use)
+
+  "Petrel_72225794_MAAAKACBHkTQA" v2013.12, vendor: slbsls
+  floating license
+
+    BB7W ES001648 ES001648 (v2013.08) (licep01.ep.petrobras.com.br/30100 26816), start Mon 11/11 8:21
+    u4xx MI157725 MI157725 (v2013.08) (licep01.ep.petrobras.com.br/30100 19576), start Mon 11/11 10:28
+
+Users of Petrel_82225794_MAAAIACBHuRQA:  (Total of 2 licenses issued;  Total of 2 licenses in use)
+
+  "Petrel_82225794_MAAAIACBHuRQA" v2013.12, vendor: slbsls
+  floating license
+
+    NTQX ES00005615 ES00005615 (v2013.05) (licep01.ep.petrobras.com.br/30100 13187), start Mon 11/11 9:33
+    cqw0 NO00045276 NO00045276 (v2012.11) (licep01.ep.petrobras.com.br/30100 26241), start Mon 11/11 9:41
+
+Users of Petrel_92225794_MAAAIAGBDu+QA:  (Total of 2 licenses issued;  Total of 1 license in use)
+
+  "Petrel_92225794_MAAAIAGBDu+QA" v2013.12, vendor: slbsls
+  floating license
+
+    u3kp ES00005669 ES00005669 (v2013.01) (licep01.ep.petrobras.com.br/30100 11247), start Mon 11/11 7:57
+
+Users of Petrel_102225794_MAAAIAGBPuQQA:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of Petrel_112225794_MAAAIAGBHsZQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_112225794_MAAAIAGBHsZQA" v2013.12, vendor: slbsls
+  floating license
+
+    U3G8 ES00005506 ES00005506 (v2013.05) (licep01.ep.petrobras.com.br/30100 7540), start Mon 11/11 8:57
+
+Users of Petrel_122225794_MAAAKACBH/+QA:  (Total of 2 licenses issued;  Total of 2 licenses in use)
+
+  "Petrel_122225794_MAAAKACBH/+QA" v2013.12, vendor: slbsls
+  floating license
+
+    U3G9 ES00005340 ES00005340 (v2013.01) (licep01.ep.petrobras.com.br/30100 13364), start Mon 11/4 17:17
+    ntmw ES0005465 ES0005465 (v2013.08) (licep01.ep.petrobras.com.br/30100 17894), start Fri 11/8 11:55
+
+Users of Petrel_132225794_MAAAIAlBH8ZQA:  (Total of 2 licenses issued;  Total of 2 licenses in use)
+
+  "Petrel_132225794_MAAAIAlBH8ZQA" v2013.12, vendor: slbsls
+  floating license
+
+    U4RJ ES00007706 ES00007706 (v2011.0) (licep01.ep.petrobras.com.br/30100 28027), start Wed 11/6 9:41
+    kknn ES00007162 ES00007162 (v2013.01) (licep01.ep.petrobras.com.br/30100 4147), start Mon 11/11 10:32
+
+Users of Petrel_142225794_MAAAAAAABAQQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_152225794_MAAAAABAAASEA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_162225794_MAAAAAAADAQQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_172225794_MAAAAAAAJAQQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_182225794_MAAAAAAfACSEA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_192225794_MAAAAAFAAASEA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_202225794_MAAAAAAACgQQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_212225794_MAAAAAEfACSEA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_222225794_MAAAACAfACSEA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_232225794_MAAAAAFfACQEA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_242225794_MAAAADBAAASUA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_252225794_MAAAAAFfCCQEA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_252225794_MAAAAAFfCCQEA" v2013.12, vendor: slbsls
+  floating license
+
+    RM23 ES001722 ES001722 (v2013.01) (licep01.ep.petrobras.com.br/30100 2481), start Mon 11/11 8:56
+
+Users of Petrel_262225794_MAAAAAFACCSUA:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of Petrel_272225794_MAAAAAAADgSQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_282225794_MAAAIAhABEQQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_282225794_MAAAIAhABEQQA" v2013.12, vendor: slbsls
+  floating license
+
+    CQB4 ES004318 ES004318 (v2013.08) (licep01.ep.petrobras.com.br/30100 25029), start Thu 11/7 11:21
+
+Users of Petrel_292225794_MAAAABFfBASUA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_302225794_MAAAAAFfCCSUA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_312225794_MAAAAAAfDgSUA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_322225794_MAAAAAAADoSQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_332225794_MAAAAAEADgYQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_342225794_MAAAAAEALgQQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_352225794_MAAAAAFfDgQUA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_362225794_MAAAIACBDMQQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_362225794_MAAAIACBDMQQA" v2013.12, vendor: slbsls
+  floating license
+
+    DEE7 ES004320 ES004320 (v2013.05) (licep01.ep.petrobras.com.br/30100 27413), start Mon 11/11 9:49
+
+Users of Petrel_372225794_MAAAIAEADjSQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_382225794_MAAAIACBFESQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_392225794_MAAAIAAADkYQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_392225794_MAAAIAAADkYQA" v2013.12, vendor: slbsls
+  floating license
+
+    dn64 ES00005533 ES00005533 (v2013.01) (licep01.ep.petrobras.com.br/30100 5068), start Mon 11/11 8:39
+
+Users of Petrel_402225794_MAAAIACADkQQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_412225794_MAAAAAEALgYQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_412225794_MAAAAAEALgYQA" v2013.12, vendor: slbsls
+  floating license
+
+    GOE2 ES004456 ES004456 (v2012.09) (licep01.ep.petrobras.com.br/30100 6111), start Fri 11/8 9:50
+
+Users of Petrel_422225794_MAAAIAGBBERQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_422225794_MAAAIAGBBERQA" v2013.12, vendor: slbsls
+  floating license
+
+    ntmw ES0005465 ES0005465 (v2013.01) (licep01.ep.petrobras.com.br/30100 12622), start Mon 11/11 9:24
+
+Users of Petrel_432225794_MAAAAAFfDgSUA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_442225794_MAAAKAAAHkQQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_442225794_MAAAKAAAHkQQA" v2013.12, vendor: slbsls
+  floating license
+
+    rhpn ES00005343 ES00005343 (v2011.0) (licep01.ep.petrobras.com.br/30100 13881), start Sat 11/9 19:02
+
+Users of Petrel_452225794_MAAAKAAADmQQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_462225794_MAAAIAAADk+QA:  (Total of 2 licenses issued;  Total of 1 license in use)
+
+  "Petrel_462225794_MAAAIAAADk+QA" v2013.12, vendor: slbsls
+  floating license
+
+    GOF5 ES00005403 ES00005403 (v2013.05) (licep01.ep.petrobras.com.br/30100 9504), start Fri 11/1 8:50
+
+Users of Petrel_472225794_MAAAIAEADkYQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_472225794_MAAAIAEADkYQA" v2013.12, vendor: slbsls
+  floating license
+
+    upav ES004191 ES004191 (v2012.09) (licep01.ep.petrobras.com.br/30100 24227), start Mon 11/11 8:07
+
+Users of Petrel_482225794_MAAAKACADkQQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_482225794_MAAAKACADkQQA" v2013.12, vendor: slbsls
+  floating license
+
+    im95 ES00005893 ES00005893 (v2013.05) (licep01.ep.petrobras.com.br/30100 24874), start Mon 11/11 8:00
+
+Users of Petrel_492225794_MAAAIAhBHsYUA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_492225794_MAAAIAhBHsYUA" v2013.12, vendor: slbsls
+  floating license
+
+    ut8y ES00005935 ES00005935 (v2013.01) (licep01.ep.petrobras.com.br/30100 8699), start Mon 11/11 9:49
+
+Users of Petrel_502225794_MAAAIAABFkSQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_502225794_MAAAIAABFkSQA" v2013.12, vendor: slbsls
+  floating license
+
+    I633 ES004143 ES004143 (v2012.09) (licep01.ep.petrobras.com.br/30100 27561), start Mon 11/11 9:48
+
+Users of Petrel_512225794_MAAAIAAAHsQQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_512225794_MAAAIAAAHsQQA" v2013.12, vendor: slbsls
+  floating license
+
+    cy1m ES0005373 ES0005373 (v2013.05) (licep01.ep.petrobras.com.br/30100 15277), start Thu 11/7 9:33
+
+Users of Petrel_522225794_MAAAIAAAHmQQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_522225794_MAAAIAAAHmQQA" v2013.12, vendor: slbsls
+  floating license
+
+    BQW2 ES00006186 ES00006186 (v2012.11) (licep01.ep.petrobras.com.br/30100 33573), start Mon 11/11 7:30
+
+Users of Petrel_532225794_MAAAIAABD0QQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_532225794_MAAAIAABD0QQA" v2013.12, vendor: slbsls
+  floating license
+
+    u3kj ES00005512 ES00005512 (v2013.01) (licep01.ep.petrobras.com.br/30100 17703), start Fri 11/1 10:05
+
+Users of Petrel_542225794_MAAAIAhBJFQQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_552225794_MAAAAAFfLiQUA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_552225794_MAAAAAFfLiQUA" v2013.12, vendor: slbsls
+  floating license
+
+    CJ93 ES00005887 ES00005887 (v2013.05) (licep01.ep.petrobras.com.br/30100 14003), start Wed 11/6 10:44
+
+Users of Petrel_562225794_MAAAKAABHkQQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_572225794_MAAAIAAALk+QA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_582225794_MAAAIAAAHsYQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_582225794_MAAAIAAAHsYQA" v2013.12, vendor: slbsls
+  floating license
+
+    IM01 ES00006204 ES00006204 (v2013.05) (licep01.ep.petrobras.com.br/30100 36201), start Fri 11/8 14:15
+
+Users of Petrel_592225794_MAAAIAEAHkRQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_592225794_MAAAIAEAHkRQA" v2013.12, vendor: slbsls
+  floating license
+
+    U4R6 ES00005990 ES00005990 (v2013.01) (licep01.ep.petrobras.com.br/30100 343), start Mon 11/11 8:02
+
+Users of Petrel_602225794_MAAAIAhBFMRQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_612225794_MAAAABFfDg+UA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_612225794_MAAAABFfDg+UA" v2013.12, vendor: slbsls
+  floating license
+
+    cxza ES003884 ES003884 (v2013.01) (licep01.ep.petrobras.com.br/30100 27213), start Thu 11/7 17:55
+
+Users of Petrel_622225794_MAAAIAhBHNQUA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_622225794_MAAAIAhBHNQUA" v2013.12, vendor: slbsls
+  floating license
+
+    U4XY ES002491 ES002491 (v2013.05) (licep01.ep.petrobras.com.br/30100 15935), start Mon 11/11 9:48
+
+Users of Petrel_632225794_MAAAIACBHsQQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_632225794_MAAAIACBHsQQA" v2013.12, vendor: slbsls
+  floating license
+
+    cy1m ES0005373 ES0005373 (v2013.05) (licep01.ep.petrobras.com.br/30100 20595), start Thu 11/7 15:04
+
+Users of Petrel_642225794_MAAAKAABHmQQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_652225794_MAAAKAAAPmQQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_662225794_MAAAIACBNmQQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_662225794_MAAAIACBNmQQA" v2013.12, vendor: slbsls
+  floating license
+
+    S1T8 ES003644 ES003644 (v2012.09) (licep01.ep.petrobras.com.br/30100 15531), start Mon 11/11 9:02
+
+Users of Petrel_672225794_MAAAOAAAL0QQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_672225794_MAAAOAAAL0QQA" v2013.12, vendor: slbsls
+  floating license
+
+    bemu ES00005931 ES00005931 (v2013.01) (licep01.ep.petrobras.com.br/30100 20379), start Wed 11/6 8:35
+
+Users of Petrel_682225794_MAAAIBAADuSQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_682225794_MAAAIBAADuSQA" v2013.12, vendor: slbsls
+  floating license
+
+    GOB2 ES004315 ES004315 (v2013.01) (licep01.ep.petrobras.com.br/30100 7704), start Fri 11/8 9:59
+
+Users of Petrel_692225794_MAAAIAfBHkZQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_692225794_MAAAIAfBHkZQA" v2013.12, vendor: slbsls
+  floating license
+
+    U4RJ ES00007706 ES00007706 (v2013.05) (licep01.ep.petrobras.com.br/30100 19970), start Wed 11/6 9:48
+
+Users of Petrel_702225794_MAAAKAhADkYQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_712225794_MAAAIAhBDkRQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_712225794_MAAAIAhBDkRQA" v2013.12, vendor: slbsls
+  floating license
+
+    U4XV ES00006532 ES00006532 (v2013.05) (licep01.ep.petrobras.com.br/30100 31509), start Mon 11/11 8:21
+
+Users of Petrel_722225794_MAAAIAEAHuYQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_722225794_MAAAIAEAHuYQA" v2013.12, vendor: slbsls
+  floating license
+
+    CLV6 ES001488 ES001488 (v2013.05) (licep01.ep.petrobras.com.br/30100 19319), start Mon 11/11 7:46
+
+Users of Petrel_732225794_MAAAIAGBPsQQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_732225794_MAAAIAGBPsQQA" v2013.12, vendor: slbsls
+  floating license
+
+    u3gr ES00005610 ES00005610 (v2013.05) (licep01.ep.petrobras.com.br/30100 20709), start Mon 11/11 8:44
+
+Users of Petrel_742225794_MAAAIACBHkZQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_742225794_MAAAIACBHkZQA" v2013.12, vendor: slbsls
+  floating license
+
+    CTJT ES00006204 ES00006204 (v2013.05) (licep01.ep.petrobras.com.br/30100 9614), start Mon 11/4 18:05
+
+Users of Petrel_752225794_MAAAIAhBHsQQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_752225794_MAAAIAhBHsQQA" v2013.12, vendor: slbsls
+  floating license
+
+    u3ot MI138532 MI138532 (v2013.08) (licep01.ep.petrobras.com.br/30100 889), start Mon 11/11 9:44
+
+Users of Petrel_762225794_MAAAIAhBOMZQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_762225794_MAAAIAhBOMZQA" v2013.12, vendor: slbsls
+  floating license
+
+    u3gc ES00004771 ES00004771 (v2013.01) (licep01.ep.petrobras.com.br/30100 26502), start Mon 11/11 8:56
+
+Users of Petrel_772225794_MAAAIAGBPsZQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_772225794_MAAAIAGBPsZQA" v2013.12, vendor: slbsls
+  floating license
+
+    U3MT NO00060862 NO00060862 (v2013.05) (licep01.ep.petrobras.com.br/30100 14268), start Thu 11/7 11:09
+
+Users of Petrel_782225794_MAAAIACBHs+QA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_782225794_MAAAIACBHs+QA" v2013.12, vendor: slbsls
+  floating license
+
+    cy1m ES0005373 ES0005373 (v2013.05) (licep01.ep.petrobras.com.br/30100 3008), start Fri 11/1 10:46
+
+Users of Petrel_792225794_MAAAIAGBDm+QA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_792225794_MAAAIAGBDm+QA" v2013.12, vendor: slbsls
+  floating license
+
+    U3HQ ES00005489 ES00005489 (v2012.11) (licep01.ep.petrobras.com.br/30100 31258), start Mon 11/11 7:57
+
+Users of Petrel_802225794_MAAAKACBHsRQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_802225794_MAAAKACBHsRQA" v2013.12, vendor: slbsls
+  floating license
+
+    UT3Z ES00007256 ES00007256 (v2013.05) (licep01.ep.petrobras.com.br/30100 3833), start Mon 11/11 8:17
+
+Users of Petrel_812225794_MAAAIAhBDsZQA:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Petrel_822225794_MAAAKACBHsTQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_822225794_MAAAKACBHsTQA" v2013.12, vendor: slbsls
+  floating license
+
+    GM79 ES00007163 ES00007163 (v2013.01) (licep01.ep.petrobras.com.br/30100 13095), start Mon 11/11 8:24
+
+Users of Petrel_832225794_MAAAIBhBHuQQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_832225794_MAAAIBhBHuQQA" v2013.12, vendor: slbsls
+  floating license
+
+    u3vz ES00005337 ES00005337 (v2013.01) (licep01.ep.petrobras.com.br/30100 29278), start Mon 11/11 8:27
+
+Users of Petrel_842225794_MAAAKACBH8+QA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_842225794_MAAAKACBH8+QA" v2013.12, vendor: slbsls
+  floating license
+
+    CF68 ES00007168 ES00007168 (v2013.01) (licep01.ep.petrobras.com.br/30100 28525), start Mon 11/11 8:27
+
+Users of Petrel_852225794_MAAAIAGBPuSQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_852225794_MAAAIAGBPuSQA" v2013.12, vendor: slbsls
+  floating license
+
+    U4GE ES00006811 ES00006811 (v2012.09) (licep01.ep.petrobras.com.br/30100 28260), start Mon 11/11 7:25
+
+Users of Petrel_862225794_MAAAIACBPsaQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_862225794_MAAAIACBPsaQA" v2013.12, vendor: slbsls
+  floating license
+
+    jox8 ES004206 ES004206 (v2011.0) (licep01.ep.petrobras.com.br/30100 5533), start Sat 11/2 3:58
+
+Users of Petrel_872225794_MAAAKBCBHsZQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_872225794_MAAAKBCBHsZQA" v2013.12, vendor: slbsls
+  floating license
+
+    GOH3 ES00005891 ES00005891 (v2013.05) (licep01.ep.petrobras.com.br/30100 28301), start Mon 11/11 8:22
+
+Users of Petrel_882225794_MAAAIAlBHsZQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_882225794_MAAAIAlBHsZQA" v2013.12, vendor: slbsls
+  floating license
+
+    S0D4 ES003156 ES003156 (v2013.05) (licep01.ep.petrobras.com.br/30100 5885), start Mon 11/4 16:39
+
+Users of Petrel_892225794_MAAAIAGBPsZQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_892225794_MAAAIAGBPsZQA" v2013.12, vendor: slbsls
+  floating license
+
+    I314 ES002704 ES002704 (v2013.01) (licep01.ep.petrobras.com.br/30100 13402), start Fri 11/1 9:12
+
+Users of Petrel_902225794_MAAAIAGgPuSUA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_902225794_MAAAIAGgPuSUA" v2013.12, vendor: slbsls
+  floating license
+
+    cja0 ES004209 ES004209 (v2011.0) (licep01.ep.petrobras.com.br/30100 21516), start Mon 11/11 8:31
+
+Users of Petrel_912225794_MAAAKACBH/ZQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_912225794_MAAAKACBH/ZQA" v2013.12, vendor: slbsls
+  floating license
+
+    U3GG ES00005488 ES00005488 (v2012.11) (licep01.ep.petrobras.com.br/30100 33143), start Fri 11/8 7:39
+
+Users of Petrel_922225794_MAAAKAlBPmYQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_922225794_MAAAKAlBPmYQA" v2013.12, vendor: slbsls
+  floating license
+
+    U4QL ES00005342 ES00005342 (v2013.01) (licep01.ep.petrobras.com.br/30100 23835), start Mon 11/11 8:17
+
+Users of Petrel_932225794_MAAAOACBP8ZQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_932225794_MAAAOACBP8ZQA" v2013.12, vendor: slbsls
+  floating license
+
+    CQF6 ES00005998 ES00005998 (v2012.09) (licep01.ep.petrobras.com.br/30100 24556), start Mon 11/4 9:30
+
+Users of Petrel_942225794_MAAAIAGBPuaQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_942225794_MAAAIAGBPuaQA" v2013.12, vendor: slbsls
+  floating license
+
+    CQE5 ES00007656 ES00007656 (v2013.05) (licep01.ep.petrobras.com.br/30100 28861), start Mon 11/11 9:19
+
+Users of Petrel_952225794_MAAAKAhBPuZQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_952225794_MAAAKAhBPuZQA" v2013.12, vendor: slbsls
+  floating license
+
+    CTQW ES003240 ES003240 (v2013.05) (licep01.ep.petrobras.com.br/30100 14642), start Mon 11/11 8:38
+
+Users of Petrel_962225794_MAAAIAGBP/aQA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_962225794_MAAAIAGBP/aQA" v2013.12, vendor: slbsls
+  floating license
+
+    IN37 ES00007141 ES00007141 (v2013.01) (licep01.ep.petrobras.com.br/30100 33948), start Mon 11/11 7:44
+
+Users of Petrel_972225794_MAAAKBhgPuaUA:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "Petrel_972225794_MAAAKBhgPuaUA" v2013.12, vendor: slbsls
+  floating license
+
+    cqb3 ES00005402 ES00005402 (v2013.01) (licep01.ep.petrobras.com.br/30100 13929), start Mon 11/11 7:35
+
+Users of Petrel_982225794_MAAAAAAAAAAIA:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of Petrel_992225794_MAAAAAAAAAfAA:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of OFM32:  (Total of 106 licenses issued;  Total of 39 licenses in use)
+
+  "OFM32" v2013.12, vendor: slbsls
+  floating license
+
+    AB3C ES003885 ES003885 (v2012.0) (licep01.ep.petrobras.com.br/30100 2576), start Sun 11/10 17:12
+    BEDZ ES00006784 ES00006784 (v2012.0) (licep01.ep.petrobras.com.br/30100 27317), start Tue 11/5 15:08
+    BEK0 ES00006770 ES00006770 (v2012.0) (licep01.ep.petrobras.com.br/30100 8701), start Fri 11/1 8:38
+    BESQ ES00005845 ES00005845 (v2012.0) (licep01.ep.petrobras.com.br/30100 17481), start Fri 11/8 11:10
+    BFX4 ES00007039 ES00007039 (v2012.0) (licep01.ep.petrobras.com.br/30100 24926), start Mon 11/11 9:53
+    CTUP ES004277 ES004277 (v2012.0) (licep01.ep.petrobras.com.br/30100 1396), start Mon 11/11 9:13
+    CXNY ES00006791 ES00006791 (v2012.0) (licep01.ep.petrobras.com.br/30100 4828), start Mon 11/4 9:22
+    CXVN ES004280 ES004280 (v2012.0) (licep01.ep.petrobras.com.br/30100 18504), start Mon 11/11 9:33
+    HNZZ ES002124 ES002124 (v2012.0) (licep01.ep.petrobras.com.br/30100 5227), start Mon 11/11 9:52
+    M3ZS sesmtf20 PETROBRAS-M3ZS (v2012.0) (licep01.ep.petrobras.com.br/30100 14123), start Mon 11/4 9:56
+    MACA ES00006797 ES00006797 (v2012.0) (licep01.ep.petrobras.com.br/30100 25829), start Mon 11/11 9:39
+    RHIJ ES00006813 ES00006813 (v2012.0) (licep01.ep.petrobras.com.br/30100 22929), start Mon 11/11 10:18
+    SA4P sesmtf20 PETROBRAS-SA4P (v2012.0) (licep01.ep.petrobras.com.br/30100 12135), start Mon 11/11 8:40
+    UPCC ES00006258 ES00006258 (v2012.0) (licep01.ep.petrobras.com.br/30100 34071), start Fri 11/8 21:54
+
+  "OFM32" v2010.1, vendor: slbsls
+  floating license
+
+    bedq ES003425 ES003425 (v2005) (licep01.ep.petrobras.com.br/30100 35505), start Mon 11/11 8:54
+
+  "OFM32" v2013.12, vendor: slbsls
+  floating license
+
+    bek5 ES00007129 ES00007129 (v2012.0) (licep01.ep.petrobras.com.br/30100 31138), start Mon 11/11 9:33
+    bes0 ES002339 ES002339 (v2012.0) (licep01.ep.petrobras.com.br/30100 11515), start Sun 11/10 10:40
+
+  "OFM32" v2010.1, vendor: slbsls
+  floating license
+
+    bev1 MI097530 MI097530 (v2005) (licep01.ep.petrobras.com.br/30100 11449), start Mon 11/11 8:49
+
+  "OFM32" v2013.12, vendor: slbsls
+  floating license
+
+    bevb ES00007087 ES00007087 (v2013.04) (licep01.ep.petrobras.com.br/30100 15319), start Mon 11/11 10:22
+    bfu1 ES00007100 ES00007100 (v2013.04) (licep01.ep.petrobras.com.br/30100 4737), start Fri 11/8 9:26
+    bgw0 ES003313 ES003313 (v2012.0) (licep01.ep.petrobras.com.br/30100 34655), start Fri 11/8 11:04
+    cj38 ES00007037 ES00007037 (v2012.0) (licep01.ep.petrobras.com.br/30100 31316), start Mon 11/11 9:48
+    cj45 ES00007566 ES00007566 (v2012.0) (licep01.ep.petrobras.com.br/30100 27136), start Mon 11/11 10:29
+    cjz0 ES00007050 ES00007050 (v2012.0) (licep01.ep.petrobras.com.br/30100 11937), start Mon 11/4 10:23
+    ctpk ES00006812 ES00006812 (v2012.0) (licep01.ep.petrobras.com.br/30100 2620), start Mon 11/11 10:10
+    cxvf ES001510 ES001510 (v2012.0) (licep01.ep.petrobras.com.br/30100 29008), start Mon 11/11 7:18
+    cxvv sesmtf21 PETROBRAS-CXVV (v2012.0) (licep01.ep.petrobras.com.br/30100 20131), start Tue 11/5 13:51
+    dn64 ES00005533 ES00005533 (v2012.0) (licep01.ep.petrobras.com.br/30100 16333), start Mon 11/11 8:31
+    eip3 ES004357 ES004357 (v2012.0) (licep01.ep.petrobras.com.br/30100 27815), start Mon 11/11 10:18
+    j1qk ES001781 ES001781 (v2013.04) (licep01.ep.petrobras.com.br/30100 13215), start Mon 11/11 10:29
+
+  "OFM32" v2010.1, vendor: slbsls
+  floating license
+
+    kays ES003988 ES003988 (v2007) (licep01.ep.petrobras.com.br/30100 1917), start Fri 11/8 17:17
+
+  "OFM32" v2013.12, vendor: slbsls
+  floating license
+
+    ptn3 ES003547 ES003547 (v2012.0) (licep01.ep.petrobras.com.br/30100 7347), start Mon 11/11 8:50
+
+  "OFM32" v2010.1, vendor: slbsls
+  floating license
+
+    ra23 ES001419 ES001419 (v2007) (licep01.ep.petrobras.com.br/30100 25260), start Mon 11/11 10:15
+
+  "OFM32" v2013.12, vendor: slbsls
+  floating license
+
+    ra47 ES003912 ES003912 (v2012.0) (licep01.ep.petrobras.com.br/30100 5639), start Mon 11/11 8:52
+    rs05 ES00007075 ES00007075 (v2013.04) (licep01.ep.petrobras.com.br/30100 28667), start Mon 11/11 9:50
+    rs19 ES00007070 ES00007070 (v2013.04) (licep01.ep.petrobras.com.br/30100 26603), start Mon 11/11 9:53
+    rs27 ES00004954 ES00004954 (v2013.04) (licep01.ep.petrobras.com.br/30100 16565), start Mon 11/11 8:43
+    rs62 ES00007067 ES00007067 (v2013.04) (licep01.ep.petrobras.com.br/30100 1547), start Thu 11/7 9:29
+    wua3 ES002685 ES002685 (v2013.04) (licep01.ep.petrobras.com.br/30100 23213), start Mon 11/11 0:13
+
+Users of gf_basemap:  (Total of 64 licenses issued;  Total of 1 license in use)
+
+  "gf_basemap" v2013.12, vendor: slbsls
+  floating license
+
+    fraj cururuca 4fd3a30a (v2012.00) (licep01.ep.petrobras.com.br/30100 22618), start Mon 11/11 10:21
+
+Users of gf_runtime:  (Total of 64 licenses issued;  Total of 9 licenses in use)
+
+  "gf_runtime" v2013.12, vendor: slbsls
+  floating license
+
+    cshc beta 0d45a30a (licep01.ep.petrobras.com.br/30100 35139), start Mon 11/11 7:41
+    cshe murucaia 1026a30a (licep01.ep.petrobras.com.br/30100 9701), start Fri 11/1 8:46
+    ctqw sarda 0e45a30a (licep01.ep.petrobras.com.br/30100 34897), start Mon 11/11 8:34
+    d026 padme 1044180a (v4.500) (licep01.ep.petrobras.com.br/30100 3901), start Fri 11/1 7:19
+    fraj cururuca 4fd3a30a (licep01.ep.petrobras.com.br/30100 23042), start Mon 11/11 9:18
+    n3a0 es000482 22d2170a (v4.500) (licep01.ep.petrobras.com.br/30100 3196), start Mon 11/11 8:22
+    n7l6 muana 2044180a (v4.500) (licep01.ep.petrobras.com.br/30100 20846), start Fri 11/8 12:00
+    nt6q bulock 7340180a (v4.500) (licep01.ep.petrobras.com.br/30100 24747), start Wed 11/6 11:28
+    sle1 es00006999 3b3f180a (v4.500) (licep01.ep.petrobras.com.br/30100 24187), start Mon 11/11 7:58
+
+Users of gf_geoshare:  (Total of 64 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_hardcopy:  (Total of 64 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_reportgenerator:  (Total of 64 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_data_manager:  (Total of 50 licenses issued;  Total of 3 licenses in use)
+
+  "gf_data_manager" v2013.12, vendor: slbsls
+  floating license
+
+    d026 padme 1044180a (v4.500) (licep01.ep.petrobras.com.br/30100 3604), start Fri 11/1 7:20
+    n3a0 es000482 22d2170a (v4.500) (licep01.ep.petrobras.com.br/30100 32443), start Mon 11/11 8:24
+    n7l6 muana 2044180a (v4.500) (licep01.ep.petrobras.com.br/30100 16074), start Fri 11/8 12:00
+
+Users of gf_dlis_util:  (Total of 50 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_dlisu:  (Total of 50 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_geoviz_explore:  (Total of 49 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_iesx_seis3dv:  (Total of 37 licenses issued;  Total of 5 licenses in use)
+
+  "gf_iesx_seis3dv" v2013.12, vendor: slbsls
+  floating license
+
+    cshc beta 0d45a30a (v2012.00) (licep01.ep.petrobras.com.br/30100 21695), start Mon 11/11 10:31
+    cshe murucaia 1026a30a (v2012.00) (licep01.ep.petrobras.com.br/30100 9903), start Fri 11/8 14:23
+    ctqw sarda 0e45a30a (v2012.00) (licep01.ep.petrobras.com.br/30100 25937), start Mon 11/11 8:34
+    fraj cururuca 4fd3a30a (v2012.00) (licep01.ep.petrobras.com.br/30100 5727), start Mon 11/11 10:29
+
+  "gf_iesx_seis3dv" v4.5, vendor: slbsls
+  floating license
+
+    sle1 es00006999 3b3f180a (v4.500) (licep01.ep.petrobras.com.br/30100 4245), start Mon 11/11 7:59
+
+Users of gf_iesx_seis2d:  (Total of 35 licenses issued;  Total of 1 license in use)
+
+  "gf_iesx_seis2d" v2013.12, vendor: slbsls
+  floating license
+
+    fraj cururuca 4fd3a30a (v2012.00) (licep01.ep.petrobras.com.br/30100 1667), start Mon 11/11 10:24
+
+Users of gf_dip_image:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_dip_image_HLS:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_dip_image_AWS:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_bornor:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_BorView:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_iesx_autopix:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_data_functioning:  (Total of 27 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_welledit:  (Total of 27 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_synthetics:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_geoviz:  (Total of 14 licenses issued;  Total of 2 licenses in use)
+
+  "gf_geoviz" v2013.12, vendor: slbsls
+  floating license
+
+    cshe murucaia 1026a30a (v2012.00) (licep01.ep.petrobras.com.br/30100 10003), start Fri 11/8 14:23
+    sle1 es00006999 3b3f180a (v4.500) (licep01.ep.petrobras.com.br/30100 19450), start Mon 11/11 7:59
+
+Users of gf_iesx_csa:  (Total of 11 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_iesx_seistie:  (Total of 12 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_iesx_seisan:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_basemap_plus:  (Total of 39 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_iesx_surfaceslice:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of gf_charisma_attributemap:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_charisma_mapping:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_charisma_processingtoolbox:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_xsection:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_panorama:  (Total of 17 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_wellcomposite_plus:  (Total of 17 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_ressum:  (Total of 17 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_charisma_seismicviewer:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_charisma_main3d:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_charisma_main2d:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_charisma_mistie:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_indepth:  (Total of 7 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_log_property:  (Total of 9 licenses issued;  Total of 1 license in use)
+
+  "gf_log_property" v2013.12, vendor: slbsls
+  floating license
+
+    cshe murucaia 1026a30a (licep01.ep.petrobras.com.br/30100 15830), start Fri 11/1 14:55
+
+Users of gf_cps3_mapping:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_modeling_office:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_framework_3d:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_variance_cube:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_seisclass:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_wellpix:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_iesx_asap:  (Total of 6 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_charisma_asap:  (Total of 6 licenses issued;  Total of 0 licenses in use)
+
+Users of uncertainty:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of gf_spectral_decomposition:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Full_Functionality:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of WellCount_100:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of WellCount_500:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of WellCount_40:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Performance_Monitoring:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Intra_Day_Data:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of WellCount_1000:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Data_Reconciliation:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of WellCount_10:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Workflow_Automation:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of WellCount_2000:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of WellCount_4000:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of WellCount_8000:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of WellCount_Unlimited:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of WellCount_250:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of gf_strucview:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of Peep_Security:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of ResultsBroker:  (Total of 17 licenses issued;  Total of 0 licenses in use)
+
+Users of World_PEEP:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of ResultsBroker_Security:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of PeepOCXExtensions:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of Forecast:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of CapitalPlanning:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of EfficientFrontier:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of PIPESIM:  (Total of 36 licenses issued;  Total of 2 licenses in use)
+
+  "PIPESIM" v2011.0, vendor: slbsls
+  floating license
+
+    N7HH ES00005995 ES00005995 (v2011.0) (licep01.ep.petrobras.com.br/30100 13751), start Mon 11/11 8:49
+
+  "PIPESIM" v2013.12, vendor: slbsls
+  floating license
+
+    cn0b MI00234379 MI00234379 (v2011.0) (licep01.ep.petrobras.com.br/30100 1840), start Mon 11/11 10:08
+
+Users of PSIMENGINE:  (Total of 36 licenses issued;  Total of 0 licenses in use)
+
+Users of NETENGINE:  (Total of 35 licenses issued;  Total of 0 licenses in use)
+
+Users of PIPESIM-NET:  (Total of 35 licenses issued;  Total of 4 licenses in use)
+
+  "PIPESIM-NET" v2013.12, vendor: slbsls
+  floating license
+
+    BEWV NO00049225 NO00049225 (v2011.0) (licep01.ep.petrobras.com.br/30100 29719), start Mon 11/11 10:27
+    BFN8 NO027731 NO027731 (v2011.0) (licep01.ep.petrobras.com.br/30100 34221), start Wed 11/6 14:25
+
+  "PIPESIM-NET" v2011.0, vendor: slbsls
+  floating license
+
+    CXNF ES00006480 ES00006480 (v2011.0) (licep01.ep.petrobras.com.br/30100 11186), start Mon 11/11 8:39
+    N7HH ES00005995 ES00005995 (v2011.0) (licep01.ep.petrobras.com.br/30100 23999), start Mon 11/11 8:49
+
+Users of PVTToolbox_Base:  (Total of 6 licenses issued;  Total of 0 licenses in use)
+
+Users of psim_compositional:  (Total of 6 licenses issued;  Total of 0 licenses in use)
+
+Users of OLGA-S:  (Total of 6 licenses issued;  Total of 0 licenses in use)
+
+Users of MultiFlash_GUI:  (Total of 17 licenses issued;  Total of 0 licenses in use)
+
+Users of MultiFlash_Basic:  (Total of 17 licenses issued;  Total of 1 license in use)
+
+  "MultiFlash_Basic" v2013.12, vendor: slbsls
+  floating license
+
+    cn0b MI00234379 MI00234379 (v2011.0) (licep01.ep.petrobras.com.br/30100 17052), start Mon 11/11 10:09
+
+Users of MultiFlash_GUICALC:  (Total of 17 licenses issued;  Total of 0 licenses in use)
+
+Users of MultiFlash_Hydrate:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of DesignPro_Russian:  (Total of 13 licenses issued;  Total of 0 licenses in use)
+
+Users of DesignPro:  (Total of 21 licenses issued;  Total of 0 licenses in use)
+
+Users of Avocet_Capture:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of DECIDE.Full_Functionality:  (Total of 21 licenses issued;  Total of 0 licenses in use)
+
+Users of DECIDE.Automation_IntraDay:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of DECIDE.Automation_Data:  (Total of 38 licenses issued;  Total of 0 licenses in use)
+
+Users of DECIDE.Automation_Rules:  (Total of 26 licenses issued;  Total of 1 license in use)
+
+  "DECIDE.Automation_Rules" v2009.1, vendor: slbsls
+  floating license
+
+    SYSTEM SBCAS138 SBCAS138 (v2009.1) (licep01.ep.petrobras.com.br/30100 2208), start Sun 11/3 10:23
+
+Users of DECIDE.Automation_Models:  (Total of 15 licenses issued;  Total of 5 licenses in use)
+
+  "DECIDE.Automation_Models" v2009.1, vendor: slbsls
+  floating license
+
+    SABCDECI SBCAS139 SBCAS139 (v2009.1) (licep01.ep.petrobras.com.br/30100 11361), start Sun 11/3 10:32
+    SYSTEM SBCAS140 SBCAS140 (v2009.1) (licep01.ep.petrobras.com.br/30100 4434), start Mon 11/11 0:05
+    SYSTEM SBCAS137 SBCAS137 (v2009.1) (licep01.ep.petrobras.com.br/30100 929), start Sun 11/3 10:20
+    SYSTEM SBCAS107 SBCAS107 (v2009.1) (licep01.ep.petrobras.com.br/30100 2006), start Sun 11/3 10:17
+    SYSTEM SBCAS74 SBCAS74 (v2009.1) (licep01.ep.petrobras.com.br/30100 10476), start Sun 11/3 10:17
+
+Users of DECIDE.Facility_Count_40:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of OR_UpdateWhileDrilling:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of OR_OffsetDataIntegration:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of Osprey_Risk_Standard:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of Osprey_Risk_Advanced:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of OLGAS-3PHASE:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of r2sl_tanks:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of AvocetIAM_Base:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of AvocetIAM_Optimizers:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of AvocetIAM_Process:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of MerakEconomics:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of r2sl:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of AvocetIAM_Production:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of r2sl_gap:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of r2sl_lookup:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of AvocetIAM_Reservoir:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_lo_lql:  (Total of 7 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_lithotoolkit:  (Total of 12 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_lo_neuralnet:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_geoplot:  (Total of 6 licenses issued;  Total of 0 licenses in use)
+
+Users of lq_viz_server:  (Total of 45 licenses issued;  Total of 0 licenses in use)
+
+Users of lq_lrs:  (Total of 40 licenses issued;  Total of 0 licenses in use)
+
+Users of lq_accounting:  (Total of 70 licenses issued;  Total of 0 licenses in use)
+
+Users of lq_win_rdp:  (Total of 10 licenses issued;  Total of 0 licenses in use)
+
+Users of DECIDE.Facility_Count_100:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of DECIDE.Facility_Count_250:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_TS_IESX:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SDS_SDE_Access:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of SDS_DBAdmin:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_SEGY_Load:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_SEGY_Edit:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SDS_Central:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of SDS_UKOOA_Loader:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_TS_Charisma:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_Export_SEGYProj:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of eims_ds_seismic_manager:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_Export_SEGYSEGY:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of eims_ds_seabed:  (Total of 7 licenses issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_Export_ProjSEGY:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_Nav_Load:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SDS_MergeManager:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of SDS_Seismic:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_TraceView_Proj:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_Scan_GeoFrame:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_Scan_OpenWorks:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_Export_ProjProj:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SDS_UKOOA_Exporter:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_TS_SeisWorks:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SDS_Gen_Ascii_Loader:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of SeismicManager_TraceView_SEGY:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of SDS_Gen_Ascii_Exporter:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SDS_Reservoir:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SDS_Log:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of SDS_Well:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_viewer_dtm:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_ds_index:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of dtm_transfer_framework:  (Total of 60 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_viewer_gis:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_viewer_form:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_ds:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_ds_sde:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_ds_raster:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_viewer_client_transfer:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_viewer:  (Total of 3 licenses issued;  Total of 1 license in use)
+
+  "eims_viewer" v2012.1, vendor: slbsls
+  floating license
+
+    gqs guararema /dev/tty (v2012.1) (licep01.ep.petrobras.com.br/30100 21104), start Fri 11/8 8:54
+
+Users of eims_ds_jdbc:  (Total of 30 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_client:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_ds_geoframe:  (Total of 20 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_ds_seisworks3d:  (Total of 20 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_ds_openworks2003:  (Total of 20 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_ds_sw2003:  (Total of 20 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_viewer_comparison:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of eims_viewer_comparisonsingle:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of livequest_web:  (Total of 2997 licenses issued;  Total of 0 licenses in use)
+
+Users of Avocet.GasLiftOptimizer:  (Total of 11 licenses issued;  Total of 0 licenses in use)
+
+Users of PIPESIM_LINUX:  (Total of 11 licenses issued;  Total of 0 licenses in use)
+
+Users of IF_DecisionPoint:  (Total of 70 licenses issued;  Total of 0 licenses in use)
+
+Users of DP_Prod_package:  (Total of 70 licenses issued;  Total of 0 licenses in use)
+
+Users of DP_DWW_package:  (Total of 70 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_elanplus:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_charisma_correlationmap:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_petroviewplus:  (Total of 6 licenses issued;  Total of 0 licenses in use)
+
+Users of gf_preplus:  (Total of 6 licenses issued;  Total of 0 licenses in use)
+
+Users of LDB_original_export:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of LDB_lis_scan:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of LogDB:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of LDB_browsing_editing:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of LDB_log_display:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of LDB_view_edit:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of LDB_report_generator:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of LDB_query_builder:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of LDB_edited_export:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of LDB_las_scan:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of LDB_dlis_scan:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of DECIDE.Facility_Count_10:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of petroflash:  (Total of 2180 licenses issued;  Total of 0 licenses in use)
+
+Users of pm_2Component2D:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of multi1D_2D:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of pepe2D:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of petroflow2D:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of editors:  (Total of 2180 licenses issued;  Total of 0 licenses in use)
+
+Users of pirx2D:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of input2D:  (Total of 106 licenses issued;  Total of 0 licenses in use)
+
+Users of petrogen2D:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of pm_MultiComponent2D:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of petrobuilder2D:  (Total of 106 licenses issued;  Total of 0 licenses in use)
+
+Users of pm_parallel:  (Total of 100 licenses issued;  Total of 0 licenses in use)
+
+Users of DECIDE.Data_Mining:  (Total of 3 licenses issued;  Total of 0 licenses in use)
+
+Users of pm_ThermalCalibration3D:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of tlDLIS:  (Total of 6 licenses issued;  Total of 2 licenses in use)
+
+  "tlDLIS" v2013.12, vendor: slbsls
+  floating license
+
+    I607 ES00007171 ES00007171 (v2013.07) (licep01.ep.petrobras.com.br/30100 26329), start Sat 11/9 13:54
+    ctwz MI00262442 MI00262442 (v2013.07) (licep01.ep.petrobras.com.br/30100 2744), start Sun 11/10 17:24
+
+Users of tlBase:  (Total of 6 licenses issued;  Total of 2 licenses in use)
+
+  "tlBase" v2013.12, vendor: slbsls
+  floating license
+
+    I607 ES00007171 ES00007171 (v2013.07) (licep01.ep.petrobras.com.br/30100 289), start Sat 11/9 13:54
+    ctwz MI00262442 MI00262442 (v2013.07) (licep01.ep.petrobras.com.br/30100 21216), start Sun 11/10 17:24
+
+Users of tlTechdataPlus:  (Total of 5 licenses issued;  Total of 2 licenses in use)
+
+  "tlTechdataPlus" v2013.12, vendor: slbsls
+  floating license
+
+    I607 ES00007171 ES00007171 (v2013.07) (licep01.ep.petrobras.com.br/30100 29831), start Sat 11/9 13:54
+    ctwz MI00262442 MI00262442 (v2013.07) (licep01.ep.petrobras.com.br/30100 2197), start Sun 11/10 17:24
+
+Users of tlQuantiMin:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "tlQuantiMin" v2013.12, vendor: slbsls
+  floating license
+
+    ctwz MI00262442 MI00262442 (v2013.07) (licep01.ep.petrobras.com.br/30100 1717), start Sun 11/10 17:24
+
+Users of tlWBI:  (Total of 5 licenses issued;  Total of 2 licenses in use)
+
+  "tlWBI" v2013.12, vendor: slbsls
+  floating license
+
+    I607 ES00007171 ES00007171 (v2013.07) (licep01.ep.petrobras.com.br/30100 11727), start Sat 11/9 13:54
+    ctwz MI00262442 MI00262442 (v2013.07) (licep01.ep.petrobras.com.br/30100 31893), start Sun 11/10 17:24
+
+Users of tlNMR:  (Total of 3 licenses issued;  Total of 1 license in use)
+
+  "tlNMR" v2013.12, vendor: slbsls
+  floating license
+
+    ctwz MI00262442 MI00262442 (v2013.07) (licep01.ep.petrobras.com.br/30100 1200), start Sun 11/10 17:24
+
+Users of tlSHM:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "tlSHM" v2013.12, vendor: slbsls
+  floating license
+
+    ctwz MI00262442 MI00262442 (v2013.07) (licep01.ep.petrobras.com.br/30100 10344), start Sun 11/10 17:24
+
+Users of tlQuanti:  (Total of 2 licenses issued;  Total of 1 license in use)
+
+  "tlQuanti" v2013.12, vendor: slbsls
+  floating license
+
+    ctwz MI00262442 MI00262442 (v2013.07) (licep01.ep.petrobras.com.br/30100 8868), start Sun 11/10 17:24
+
+Users of tlPython:  (Total of 5 licenses issued;  Total of 1 license in use)
+
+  "tlPython" v2013.12, vendor: slbsls
+  floating license
+
+    I607 ES00007171 ES00007171 (v2013.07) (licep01.ep.petrobras.com.br/30100 16191), start Sat 11/9 13:54
+
+Users of OFMPetrelPlugin:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of petrogen1D:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of petromod1D:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of petroflow1D:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of pm_chargecontroller:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of multi1D:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of pirx:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of ovlcalc:  (Total of 108 licenses issued;  Total of 0 licenses in use)
+
+Users of pm_LGR3D:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of pepe3D:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of seisstrat3D:  (Total of 999 licenses issued;  Total of 0 licenses in use)
+
+Users of mapeditor:  (Total of 108 licenses issued;  Total of 0 licenses in use)
+
+Users of heat:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of petrocharge:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of pm_2Component3D:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of petroflow3D:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of pm_MultiComponent3D:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of input3D:  (Total of 108 licenses issued;  Total of 0 licenses in use)
+
+Users of petrogen3D:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of struct2D:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of risk1D:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of risk2D:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of risk3D:  (Total of 4 licenses issued;  Total of 0 licenses in use)
+
+Users of faf3D:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of faf2D:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of faf1D:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of wizard:  (Total of 20 licenses issued;  Total of 0 licenses in use)
+
+Users of wizard_SIM:  (Total of 20 licenses issued;  Total of 0 licenses in use)
+
+Users of struct3D:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of biopets:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of gf_roxan:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of gf_sonic_bestdt:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of gf_sonic_dstc:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of gf_sonic_stc:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of gf_sonic_stone:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of gf_holeshape:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of gf_hrla2d:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of ISIS3DP:  (Total of 90 licenses issued;  Total of 2 licenses in use)
+
+  "ISIS3DP" v4.000, vendor: slbsls
+  floating license
+
+    hrq1 bw21e01n03 /dev/pts/0 (v4.0) (licep01.ep.petrobras.com.br/30100 24450), start Mon 11/11 10:34
+    hrq1 bw21e01n03 /dev/pts/0 (v4.0) (licep01.ep.petrobras.com.br/30100 26952), start Mon 11/11 10:34
+
+Users of ISIS3DP_ALIGN:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of ISIS3DP_ATTENUATION:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of ISIS3DP_DIP:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of ISIS3DP_LITHOLOGY:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of ISIS3DP_PPPS:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of ISIS3DP_SIMULTANEOUS:  (Total of 27 licenses issued;  Total of 0 licenses in use)
+
+Users of ISIS3DP_TIMELAPSE:  (Total of 9 licenses issued;  Total of 0 licenses in use)
+
+Users of SDS_Drilling:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of Logs_Original_Exporter:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of SDS_Database_Access:  (Total of 2 licenses issued;  Total of 1 license in use)
+
+  "SDS_Database_Access" v2011.1, vendor: slbsls
+  floating license
+
+    cywb.PETROBRAS\MI145918 CYWB.ppslog /dev/tty (v2011.1) (licep01.ep.petrobras.com.br/30100 27966), start Wed 11/6 9:59
+
+Users of SDS_Bulk_Access:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Logs_DLIS_Loader:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of eims_viewer_well:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Logs_Edited_Exporter:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of Logs_SEGY_VSP_Loader:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+Users of eims_ds_logs:  (Total of 1 license issued;  Total of 1 license in use)
+
+  "eims_ds_logs" v2012.1, vendor: slbsls
+  floating license
+
+    cywb guararema /dev/tty (v2012.1) (licep01.ep.petrobras.com.br/30100 8535), start Fri 11/8 9:02
+
+Users of SDS_LAS_Loader:  (Total of 1 license issued;  Total of 0 licenses in use)
+
+
